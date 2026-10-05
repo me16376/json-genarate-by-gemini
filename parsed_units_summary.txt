@@ -1,0 +1,3417 @@
+Parsed 34 courses with units!
+
+====================================================
+COURSE: 26711 - BASIC ELECTRICITY (from 1st - 85-COMPUTER SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: 
+     1.1 State the meaning of electricity.
+     1.2 Describe the structure of atom.
+     1.3 Define current, voltage and resistance.
+     1.4 Mention units of current, voltage and resistance.
+  Unit 2: 
+  Unit 3: 
+  Unit 2: CONDUCTOR, SEMI-CONDUCTOR AND INSULATOR.
+     2.1 Define conductor, semiconductor and insulator.
+     2.2 Explain the conductor, semiconductor, and insulator
+     2.3 List different types of conductors, semiconductors and
+     2.4 Describe the factors affecting the resistance of a
+     2.5 State laws of resistance.
+     2.6 Prove the relation, R=
+     2.7 Explain the meaning of resistivity
+     2.8 Mention the unit of resistivity.
+     2.9 Solve problems relating to laws of resistance.
+  Unit 3: 
+  Unit 6: 
+  Unit 3: CAPACITORS AND INDUCTORS.
+     3.1 Define capacitor and capacitance.
+     3.2 Mention the unit of capacitance.
+     3.3 Name the different types of capacitors.
+     3.4 Define inductor and inductance.
+     3.5 Mention the unit of inductance
+     3.6 Classify the different types of inductors.
+     3.7 List the uses of capacitor and inductor.
+     3.8 Determine the equivalent capacitance of a number of
+     3.9 Explain the energy storage in a capacitor.
+     3.10 Solve the problems relating to capacitors.
+  Unit 3: 
+  Unit 8: 
+  Unit 4: OHM’S LAW & JOULE’S LAW
+     4.1 State Ohm's law.
+     4.2 Explain the limitations of Ohm’s law
+     4.3 Deduce the relation among current, voltage and
+     4.4 Solve problems relating to Ohm's law.
+     4.5 Describe the heating effect of electricity.
+     4.6 Explain Joule's law regarding heat produce in electric
+     4.7 Describe mechanical equivalent of heat (J)
+     4.8 Solve problems relating to Joule’s law.
+  Unit 3: 
+  Unit 9: Page 3 of 10
+  Unit 5: ELECTRICAL CIRCUIT
+     5.1 Define electric circuit.
+     5.2 State the elements of electric circuit
+     5.3 Classify electric circuits.
+     5.4 Define series circuit, parallel circuit and combined circuit.
+     5.5 Describe the characteristics of series circuit and parallel
+     5.6 Calculate the equivalent resistance of series circuit,
+     5.7 Solve problems relating to series, parallel and combined
+     5.2 State the unit of electrical power and energy.
+     5.3 Show the relation between electrical power and energy.
+     5.4 List the name of instruments for measuring electrical
+     5.5 Draw the connection diagram of wattmeter and energy
+     5.6 Solve problems relating to electrical power and energy.
+  Unit 6: 
+  Unit 10: 
+  Unit 6: ELECTRICAL POWER AND ENERGY
+     6.1 Define electrical power and energy.
+  Unit 3: 
+  Unit 8: 
+  Unit 7: ELECTRICAL WIRES, CABLES, JOINT AND SPLICES
+     7.1 Define electrical wires and cables.
+     7.2 Distinguish between wire and cable.
+     7.3 Describe the construction and uses of PVC, VIR, TRS or
+     7.4 Describe the procedure of measuring the size of wires
+     7.5 Describe the current carrying capacity of a wire.
+     7.6 Define the meaning of joints and splices.
+     7.7 State the five steps of making a joint.
+     7.8 Explain the procedure to make a pig tail joint, western
+     7.9 List uses of joints.
+  Unit 3: 
+  Unit 6: 
+  Unit 8: METHODS OF HOUSE WIRING
+     8.1 State the meaning of wiring.
+     8.2 List the types of wiring.
+  Unit 4: 
+  Unit 8: Page 4 of 10
+     8.3 State the procedure for channel wiring, surface conduit
+     8.4 State the types of wiring used in Residential building and
+     8.5 State the types of wiring used in State the types of wiring
+     8.6 List the name of fittings used in different types of
+     8.7 Explain the different tests of electrical wiring such as
+  Unit 9: ELECTRICAL CONTROLLING DEVICES.
+     9.1 Define controlling device.
+     9.2 Mention different types of controlling device.
+     9.3 Describe the constructional features and uses of tumbler
+     9.4 Sketch the wiring diagram of one lamp controlled by one
+     9.5 Sketch the wiring diagram of one lamp controlled by two
+     9.6 Draw the wiring diagram of a calling bell.
+     9.7 Draw the wiring diagram of a calling bell with more than
+     9.8 Draw the wiring diagram of a fluorescent tube light
+     9.9 Illustrate the working principle of fluorescent tube light.
+  Unit 2: 
+  Unit 4: 
+  Unit 10: ELECTRICAL PROTECTIVE DEVICES.
+     10.1 Define protective device.
+     10.2 List the different types of protective device.
+     10.3 List the different types of fuses used in house wiring.
+     10.4 Describe the construction and uses of renewable fuse.
+     10.5 Mention the different types of circuit breaker used in
+     10.6 Describe safety procedure against electrical hazards.
+     10.7 List the performance of safety practices for electrical
+     10.8 Explain the meaning and uses of SPST, SPDT, DPST, DPDT,
+     10.9 Describe the construction of MCB and its advantages.
+  Unit 3: 
+  Unit 6: 
+  Unit 11: ELECTRICAL EARTHING
+     11.1 Define earthing and mention the elements of earthing.
+     11.2 Explain the necessity of earthing.
+     11.3 List the different types of earthing.
+     11.4 List the value of earthing resistance in different
+     11.5 Discuss the factors to be considered in performing
+     11.6 Explain the working principles of pipe earthing with
+     11.7 Narrate the working principles of plate earthing with
+     11.8 Explain the working principles of sheet earthing with
+     11.9 Describe the working principles of rod earthing with
+  Unit 4: 
+  Unit 5: Page 5 of 10
+  Unit 12: MODERN ELECTRIC LAMPS.
+     12.1 Explain the working principle of a fluorescent lamp
+     12.2 Describe constructional details of Sodium Vapor &
+     12.3 Explain working principle of a Compact Fluorescent lamp
+     12.4 Describe constructional details of a Compact Fluorescent
+     12.5 Explain working principle of a Light Emitting Diode (LED)
+     12.6 Describe constructional details of LED lamp and LED tube
+     12.7 Explain working principle of Liquid Crystal Diode (LCD)
+     12.8 Describe constructional details of LCD lamp.
+     12.9 Describe constructional details of a Cold Cathode
+  Unit 4: 
+  Unit 6: 
+  Unit 13: Electromagnetism.
+     13.1 Describe magnetic field, magnetic lines of force and its
+     13.2 Describe field intensity and magnetic flux density.
+     13.3 Distinguish between absolute permeability and relative
+     13.4 Describe the concept of magnetic effect of electrical
+     13.5 States Maxwell's cork screw rule and Fleming's left-hand
+     13.6 Explain the force experienced in a current carrying
+     13.7 Explain the work done by a moving conductor in a
+     13.8 . Explain the force between two parallel current carrying
+  Unit 4: 
+  Unit 5: Page 6 of 10
+  Unit 14: Electromagnetic induction.
+     14.1 Define Faraday's laws of electromagnetic induction.
+     14.2 Describe the magnitude of dynamically induced emf and
+     14.3 Solve problems relating to emf generation.
+     14.4 Define Lenz's law and Fleming's right-hand rule for
+     14.5 Define self-induced emf and self-inductance.
+     14.6 Explain inductance of an iron cored inductor.
+     14.7 Define mutual inductance and co-efficient of coupling
+  Unit 4: 
+  Unit 6: Total
+  Unit 48: 
+  Unit 90: 
+
+====================================================
+COURSE: 25913 - CHEMISTRY (from 2nd - 85-COMPUTER SCIENCE _ TECHNOLOGY.pdf)
+====================================================
+  Unit 1: ATOMIC STRUCTURE
+     1.1 Define Element, atoms and molecules.
+     1.2 Define molecular mass, atomic number, mass number, mole and
+     1.3 Distinguish between atom and molecule.
+     1.4 Describe Fundamental particle of atom.
+     1.5 Define isotope, isobar and isotone.
+     1.6 Define Orbit and Orbital.
+     1.7 Explain Quantum number.
+     1.8 Describe Electronic configuration based on Aufbau principle,
+  Unit 6: 
+  Unit 10: 
+  Unit 2: SYMBOL, VALENCY AND FORMULA
+     2.1 Define Symbol, Valency and formula.
+     2.2 Discuss the variations of valency.
+     2.3 Describe active and latent valency.
+     2.4 Describe Radicals.
+  Unit 3: 
+  Unit 6: 
+  Unit 3: 
+     3.1 Define gas and vapor.
+     3.2 Mention the Characteristic of gas.
+     3.3 Distinguish between gas and vapor.
+     3.4 Define STP, NTP and Absolute temperature.
+     3.5 Mention the Boyle’s, Charle’s and Avogadro’s law.
+     3.6 Establish the ideal gas equation ( PV=nRT)
+  Unit 4: 
+  Unit 8: 
+  Unit 4: CHEMICAL BOND
+     4.1 Define Chemical Bond.
+     4.2 Define Octet rule.
+     4.3 Explain Ionic bond, Covalent bond and Co-ordinate covalent
+     4.4 Mention the Characteristic of ionic and covalent compound.
+     4.5 Differentiate between ionic and covalent compounds.
+  Unit 4: 
+  Unit 8: 
+  Unit 5: ACID, BASE AND SALT
+     5.1 State Modern concept of Acid and Base.
+     5.2 List the properties of acid and base.
+     5.3 Classify Salt
+     5.4 Explain Basicity of an acid and acidity of a base.
+  Unit 3: 
+  Unit 6: 
+  Unit 6: IONIC EQUILIBRIUM
+     6.1 Explain pH and pH scale.
+     6.2 Define Normality, Molarity and Molality.
+     6.3 Define Primary and Secondary Standard Substances.
+     6.4 Define Standard Solution, Titration and Indicator.
+     6.5 Define Buffer Solution and Its Mechanism.
+     6.6 Describe Importance of pH in Agriculture and Chemical Industries.
+  Unit 3: 
+  Unit 6: 
+  Unit 7: CHEMICAL REACTION
+     7.1 Define Exothermic and endothermic reaction.
+     7.2 Define Chemical Reaction
+     7.3 Classify Chemical Reaction.
+     7.3 Describe Catalyst and Catalysis.
+     7.5 Mention the uses of Catalyst in Industries.
+  Unit 3: 
+  Unit 7: 
+  Unit 8: OXIDATION AND REDUCTION
+     8.1 Describe Modern concept of Oxidation and Reduction.
+     8.2 Define Oxidizing agent and Reducing agent.
+     8.3 Describe Simultaneous process of Oxidation and Reduction.
+     8.4 Explain the Oxidation number / state.
+     8.5 Distinguish Between Oxidation number and Valency.
+  Unit 3: 
+  Unit 6: 
+  Unit 9: WATER
+     9.1 Define Hard and Soft water.
+     9.2 Define Hardness of water.
+     9.2 Describe permutit process to removal the hardness of water.
+     9.3 Mention the Advantage and disadvantage of Soft and Hard water.
+     9.4 Describe Reverse Osmosis process.
+  Unit 3: 
+  Unit 5: 
+  Unit 10: ELECTRO-CHEMISTRY
+     10.1 Define Electrolyte, Electrolysis and Electrode.
+     10.2 State the Mechanism of Electrolysis process.
+     10.3 Mention the Process of Chrome Electro-plating.
+     10.4 Define Galvanizing.
+     10.5 Mention the importance of Galvanizing.
+  Unit 3: 
+  Unit 5: 
+  Unit 11: Basic concept of organic chemistry
+     11.1 Define organic chemistry.
+     11.2 Classify organic compound
+     11.3 Mention the Catenation properties of Carbon
+     11.4 Distinguish between organic & inorganic compound
+     11.5 Explain homologous series of organic compound
+     11.6 State molecular & structural formula of methane, ethane,
+     11.7 Describe functional group of organic compounds
+  Unit 4: 
+     4.4 Define enzyme and fermentation.
+  Unit 8: 
+  Unit 12: Aliphatic Hydrocarbon
+     12.1 Define hydrocarbon, saturated and unsaturated hydrocarbon
+     12.2 Describe nomenclature of alkane, alkene and alkyne IUPAC
+     12.3 Mention the uses of hydrocarbon methane, ethane and ethyne.
+  Unit 3: 
+     3.3 Define absolute alcohol, rectified sprit and power alcohol.
+  Unit 5: 
+  Unit 13: Alcohol
+     13.1 Define alcohol.
+     13.2 Describe the classification of alcohol.
+  Unit 3: 
+  Unit 14: Aromatic Compound
+     14.1 Define aromatic compound.
+     14.2 Define aromaticity and Hackle’s Theory.
+     14.3 Describe Synthesis Benzene from phenol, acetylene and benzoic
+     14.4 Mention the uses of benzene.
+  Unit 3: 
+  Unit 5: Total
+  Unit 46: 
+  Unit 85: 
+
+====================================================
+COURSE: 25921 - Mathematics-II (from 2nd - 85-COMPUTER SCIENCE _ TECHNOLOGY.pdf)
+====================================================
+  Unit 3: 
+  Unit 3: 
+  Unit 4: Rationale
+  Unit 1: DIFFERENTIAL CALCULAS (Functions and Graph of Functions):
+     1.1 Define constant, variable, function, domain, range
+     1.2 Solve problems related to functions.
+  Unit 3: 
+  Unit 5: 
+  Unit 2: DIFFERENTIAL CALCULAS (Limit):
+     2.2 Distinguish between Lim  f(x) and f(a).
+     2.3 Establish (i)
+  Unit 3: 
+  Unit 5: 
+  Unit 3: DIFFERENTIAL CALCULAS (Differential co-efficient and differentiation):
+     3.1 Prove that
+     3.2 Find the differential co-efficient of algebraic and trigonometrical functions
+  Unit 2: 
+  Unit 5: 
+  Unit 4: DIFFERENTIAL CALCULAS (Apply the concept of differentiation):
+     4.1 State the formulae for differentiation:
+     4.2 Find the differential co-efficient using the sum or difference formula, product formula
+     4.3 Find the differential co-efficient function of function and logarithmic function.
+  Unit 6: 
+  Unit 10: 
+  Unit 5: DIFFERENTIAL CALCULAS (Geometrical meaning of dy ):
+     5.1 Interpret dy geometrically. dx
+     5.2 Explain dy under different conditions.
+  Unit 3: 
+  Unit 5: 
+  Unit 6: DIFFERENTIAL CALCULAS (Use Leibnitz’s theorem to solve the problems of successive
+     6.1 Find 2nd, 3rd and 4th derivatives of a function and hence find n-th derivatives.
+     6.2 Express Leibnitz’s theorem.
+     6.3 Solve the problems of successive differentiation and Leibnitz’s theorem.
+  Unit 4: 
+  Unit 8: 
+  Unit 7: DIFFERENTIAL CALCULAS (Partial differentiation):
+     7.1 Define partial derivatives.
+     7.2 State formula for total differential.
+     7.3 State formulae for partial differentiation of implicit function and homogenous function.
+     7.4 State Euler's theorem on homogeneous function.
+     7.5 Solve the problems of partial derivatives.
+  Unit 4: 
+  Unit 8: 
+  Unit 8: INTEGRAL CALCULUS (Indefinite integrals):
+     8.1 Explain the concept of integration and constant of integration.
+     8.2 State fundamental and standard integrals.
+     8.3 Write down formulae for:
+     8.4 Integrate by method of substitution, integrate by parts and by partial fractions.
+  Unit 4: 
+  Unit 8: 
+  Unit 9: INTEGRAL CALCULUS (Definite integrals):
+     9.1 Explain definite integration.
+     9.2 Interpret geometrically the meaning of 
+     9.3 Solve problems of the following types:
+  Unit 2: (i) 
+  Unit 0: 
+  Unit 0: 
+  Unit 4: 
+  Unit 8: 
+  Unit 10: VECTOR(Vector algebra):
+     10.1 Define scalar and vector.
+     10.2 Explain null vector, free vector, like vector, equal vector, collinear vector, unit vector,
+     10.3 Prove the laws of vector algebra.
+     10.4 Resolve a vector in space along three mutually perpendicular directions.
+     10.5 Solve problems involving addition and subtraction of vectors.
+  Unit 4: 
+  Unit 8: 
+  Unit 11: VECTOR (Dot product of Vectors):
+     11.1 Define dot product of Vectors.
+     11.2 Interpret dot product of vector geometrically.
+     11.3 Deduce the condition of parallelism and perpendicularity of two vectors.
+     11.4 Prove the distributive law of dot product of vector.
+     11.5 Explain the scalar triple product and vector triple product.
+     11.6 Solve problems involving dot product.
+  Unit 3: 
+  Unit 5: 
+  Unit 12: VECTOR (Cross product of vectors):
+     12.1 Define cross product of vectors.
+     12.2 Interpret cross product of vector geometrically.
+     12.3 Deduce the condition of parallelism and perpendicularity of two vectors.
+     12.4 Prove the distributive law of cross product of vector.
+     12.5 Explain the scalar triple product and vector triple product.
+     12.6 Solve problems involving cross product.
+  Unit 3: 
+  Unit 5: 
+  Unit 13: TRIGONOMETRY (Trigonometrical Properties of triangles)
+     13.1 Prove the followings identities:
+  Unit 5: 
+  Unit 10: Establish the followings.
+  Unit 2: s(s − a)
+  Unit 2: b + c
+  Unit 2: Solve the problems of the following types:
+  Unit 48: 
+  Unit 90: 
+
+====================================================
+COURSE: 28521 - PYTHON PROGRAMMING (from 2nd - 85-COMPUTER SCIENCE _ TECHNOLOGY.pdf)
+====================================================
+  Unit 2: 
+  Unit 3: 
+  Unit 3: Rationale
+  Unit 1: BASICS OF PROGRAMMING
+     1.1 State Computer Programming.
+     1.2 Explain Programming Language and its Classification.
+     1.3 State Translator Programs.
+     1.4 Define Algorithm and Flowchart.
+     1.5 Explain the uses of Flowchart symbols
+     1.6 Prepare Algorithm and Flowchart for simple problems.
+     1.7 Explain the Process of Program Planning.
+  Unit 3: 
+  Unit 3: 
+  Unit 2: BASICS OF PYTHON
+     2.1 State the features of Python.
+     2.2 Explain Identifiers and Keywords.
+     2.3 Explain Lines, Indentation, Multi-Line Statements.
+     2.4 State the uses of Quotation and Comments in Python.
+     2.5 Describe Command Line Arguments.
+  Unit 2: 
+  Unit 3: 
+  Unit 3: VARIABLES AND DATA TYPES
+     3.1 State variables
+     3.2 Explain the rules of naming variables
+     3.3 Assign Values to Variables.
+     3.4 Describe Standard Data Types.
+     3.5 Explain Data Type Conversion.
+     3.6 Write programs using variable/multiple variables.
+  Unit 2: 
+  Unit 4: 
+  Unit 4: PYTHON OPERATORS
+     4.1 State Operators and their types.
+     4.2 Describe Arithmetic Operators, Comparison Operators, and Logical
+     4.3 State Assignment Operators, Bitwise Operators, Membership Operators,
+     4.4 Explain Operators Precedence.
+     4.5 Calculate the value of expression according to the precedence of
+  Unit 3: 
+  Unit 4: 
+  Unit 5: BRANCHING STRUCTURE
+     5.1 State conditional and unconditional branching with flowchart.
+     5.2 Explain the syntax of if, if …. else, if….elif statements.
+     5.3 Draw the flowchart of if, if …. else, if….elif statements.
+     5.4 Write programs using if, if …. else, if….elif statements.
+  Unit 4: 
+  Unit 10: 
+  Unit 6: LOOPING STRUCTURE
+     6.1 State conditional and unconditional loop with flowchart.
+     6.2 Explain the syntax of for & while statements.
+     6.3 Draw the flowchart of for & while statements.
+     6.4 Describe nested loop.
+     6.5 Write programs using for, while & nested loop.
+  Unit 4: 
+  Unit 10: 
+     10.1 State Set structure in Python.
+     10.2 Mention the properties of Set items.
+     10.3 Explain creating a Set using curly braces and set() method.
+     10.4 Explain Adding items to the set and Removing items from the set.
+     10.5 Describe Python set operation (Union, Intersection, difference).
+     10.6 Write programs using Set in Python.
+  Unit 7: LIST STRUCTURE
+     7.1 Define List structure
+     7.2 Assign Values in List.
+     7.3 Explain Updating and Deleting List Elements.
+     7.4 State Basic List Operations.
+     7.5 Explain Built-in List Functions and Methods.
+     7.6 Write programs using List.
+  Unit 2: 
+  Unit 4: 
+  Unit 8: TUPLES STRUCTURE
+     8.1 Define Tuple
+     8.2 Distinguish between List & Tuple
+     8.3 Assign Values in Tuple
+     8.4 Explain Updating and Deleting Tuple Elements
+     8.5 Describe Basic Tuple Operations
+     8.6 Explain Built-in Tuple Functions.
+     8.7 Write program using Tuples.
+  Unit 2: 
+  Unit 4: 
+  Unit 9: SET STRUCTURE
+     9.1 Define a Function
+     9.2 Distinguish between library & user-defined function
+     9.3 State Calling a Function
+     9.4 Explain Passing by Reference Versus Passing by Value
+     9.5 Describe Function Arguments
+     9.6 Mention Uses of Date and Time Functions.
+     9.7 Write programs using user-defined functions.
+  Unit 2: 
+  Unit 4: 
+  Unit 10: DICTIONARY STRUCTURE
+     10.1 State the File Operation.
+     10.2 Describe the File opening modes.
+     10.3 Describe the File Opening and Closing functions.
+     10.4 Explain the File Reading and Writing functions.
+     10.5 Write programs for file input/output operation.
+  Unit 11: 
+     11.1 Define Dictionary in Python.
+     11.2 State Accessing Values in Dictionary
+     11.3 Describe the process of values are Added into dictionary values
+     11.4 Describe the process of elements are Deleted from the Dictionary
+     11.4 Mention the properties of Dictionary Keys
+     11.5 Explain Built-in Dictionary Functions & Methods
+     11.6 Write programs using Dictionary
+  Unit 2: 
+  Unit 4: 
+  Unit 11: FUNCTION OPERATION
+  Unit 2: 
+  Unit 5: 
+  Unit 12: FILES I/O OPERATION
+  Unit 2: 
+  Unit 5: Total
+  Unit 16: 
+  Unit 60: 
+
+====================================================
+COURSE: 26811 - BASIC ELECTRONICS (from 2nd - 85-COMPUTER SCIENCE _ TECHNOLOGY.pdf)
+====================================================
+  Unit 1: electronic circuits.
+     1.1 Define soldering.
+     1.2 List the materials of soldering.
+     1.3 Describe the steps of soldering.
+     1.4 Mention the properties of a good soldering joint.
+     1.5 Describe the active and passive components used in
+     1.6 Mention the function of resistor, capacitor and
+     1.7 Describe the procedure of determining the value of
+  Unit 3: 
+  Unit 4: 
+  Unit 2: SEMICONDUCTOR
+     2.1 Define conductor, semiconductor and insulator.
+     2.2 Describe semiconductor with atomic structure.
+     2.3 Describe the effect of temperature on conductivity
+     2.4 Classify Semiconductor.
+     2.5 List the commonly used semiconductor
+     2.6 Describe the formation of P-type and N-type
+     2.7 Describe the charges  on N-type and P-type
+     2.8 Explain the majority & minority charge carriers of P-
+  Unit 3: 
+  Unit 4: 
+  Unit 3: SEMICONDUCTOR DIODE
+     3.1 Define PN junction diode
+     3.2 Describe the formation of PN junction.
+     3.3 Explain forward and reverse bias in PN junction.
+     3.4 Explain the forward and reverse Voltage-Current
+     3.5 Define load line, static resistance, (iii) dynamic
+     3.6 Define  forward breakdown voltage, (v) Peak inverse
+     3.7 Describe the specification of PN Junction diode.
+  Unit 3: 
+  Unit 4: 
+  Unit 4: SPECIAL DIODES
+     4.1 Define Zener Diode.
+     4.2 Describe the operation of Zener diode.
+     4.3 Explain Volt-Ampere(VI) characteristics of Zener
+     4.5 Describe
+  Unit 3: 
+  Unit 4: Page 3 of 7
+  Unit 5: DC POWER SUPPLY
+     5.1 Define dc power supply
+     5.2 Describe importance of dc power supply .
+     5.3 Compare regulated and unregulated power supply.
+     5.4 Describe the operation of a typical regulated dc
+     5.5 Define rectifier and rectification.
+     5.6 Explain the operation of half wave, full wave and
+     5.7 Determine the ripple factor, efficiency and TUF of
+     5.8 Explain the operation of capacitor; inductor-
+     5.9 Solve problem related to ripple factor, efficiency
+  Unit 3: 
+  Unit 8: 
+  Unit 6: BIPOLAR JUNCTION TRANSISTOR (BJT)
+     6.1 Define Transistor.
+     6.2 Describe the construction of PNP and NPN
+     6.3 Explain the mechanism of current flow of PNP and
+     6.4 State the biasing rules of BJT.
+     6.5 Establish the relation among Base, Emitter and
+  Unit 2: 
+  Unit 4: 
+  Unit 7: Transistor Characteristics
+     7.1 Describe three basic transistor configuration (CB,
+     7.2 Explain the characteristics curve of CB, CC and CE
+     7.3 Describe current amplification factor α, β and .
+     7.4 Establish the relation among α, β and .
+     7.5 Solve problem related to IE, IC, IB, α, β  and 
+  Unit 3: 
+  Unit 4: 
+  Unit 8: TRANSISTOR BIASING AND STABILIZATION
+     8.1 Define load line, Operating point,  stability and
+     8.2 State the biasing rule of transistor.
+     8.3 Describe faithful amplification.
+     8.4 Describe the methods of drawing DC load line.
+     8.5 Explain the leakage current in CB & CE circuits.
+     8.6 List the factors affecting stability of Q-points.
+     8.7 Describe various methods of transistor biasing.
+     8.8 Determine the stability factor of various transistor
+     8.9 Solve problem related to components values, Q-
+  Unit 4: 
+  Unit 8: Page 4 of 7
+  Unit 9: SINGLE STAGE TRANSISTOR AMPLIFIER
+     9.1 Define amplifier and single stage amplifier.
+     9.2 Mention the types of amplifier.
+     9.3 Explain operation of transistor as amplifier with
+     9.4 Describe the operation of voltage divider biased
+     9.5 Explain the phase reversal of CE amplifier.
+     9.6 Draw DC and AC equivalent circuit of voltage
+     9.7 Determine the AC equivalent load resistance of the
+     9.8 Determine voltage and power gain of the CE
+     9.9 Solve problem related to voltage and power gain
+  Unit 4: 
+  Unit 10: 
+  Unit 10: MULTISTAGE TRANSISTOR AMPLIFIER
+     10.1 Define Multi stage amplifier.
+     10.2 Describe role of capacitor in single stage
+     10.3 Describe gain, decibel gain frequency response,
+     10.4 Mention the advantages of dB gain.
+     10.5 Describe the operation of RC coupled,
+     10.6 Explain the frequency response of RC coupled,
+     10.7 Mention the advantages and disadvantages of RC
+     10.8 Solve problem related to voltage and power gain
+  Unit 4: 
+  Unit 10: Total
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 25811 - SOCIAL SCIENCE (from 3rd - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 03: 
+  Unit 05: SOCIETY AND CITIZENSHIP
+  Unit 2: sociological perspectives.
+     2.1 Describe the evolutionary stages of society in
+     2.2 State the characteristics of society.
+     2.3 Describe the rights and duties of a citizen.
+     2.4 State the qualities of good citizen.
+  Unit 02: 
+  Unit 04: STATE, GOVERNMENT, LAW AND GOOD GOVERNANCE
+  Unit 3: governance.
+     3.1 Define state, government, law and good governance
+     3.2 Mention the elements of state.
+     3.3 Discuss the forms of government.
+     3.4 Mention the main organs of government.
+     3.5 Describe the functions of legislature.
+     3.6 Describe the functions of executive.
+     3.7 Describe the functions of judiciary.
+     3.8 Discuss the sources of law.
+     3.9 Discuss the role of government to establish good
+  Unit 04: 
+  Unit 08: SOCIALIZATION, SOCIAL CONTROL AND SOCIAL CHANGE
+  Unit 4: contemporary
+     4.1 Define socialization, social control and social change.
+     4.2 Describe the agencies of socialization.
+     4.3 Describe the agencies of social control.
+     4.4 Explain
+     4.5 Discuss the role of information and communication
+     4.6 Discuss the impact of social changes.
+  Unit 03: 
+  Unit 05: technology for social changes in Bangladesh.
+  Unit 5: 
+     5.1 Define demand.
+     5.2 Define supply.
+     5.3 Explain the law of demand and supply.
+     5.4 Draw the demand and supply curve.
+     5.5 Explain the law of diminishing marginal utility.
+     5.6 Define national income.
+     5.7 Discuss GDP, GNP and NNP.
+     5.8 State the methods of measuring national income.
+  Unit 04: 
+  Unit 08: ECONOMIC AND SUSTAINABLE DEVELOPMENT OF
+  Unit 6: urban areas.
+     6.1 Define rural and urban economy.
+     6.2 Mention major problems of rural and urban economy.
+     6.3 Explain the reasons of migration of rural population to
+     6.4 Discuss the role of Diploma graduate in the overall
+     6.5 Describe the importance and potential uses of natural
+  Unit 04: 
+  Unit 08: THE PARTITION OF INDIA AND THE SUBSEQUENT
+  Unit 7: political and social events.
+     7.1 Describe Language Movement and contemporary
+     7.2 State the 6-point demands, the Agartala Conspiracy
+     7.3 Discuss the Election of 1970 and aftermath.
+     7.4 The Historic Liberation War in 1971 and the emergence
+     7.5 Discuss the reconstruction activities of independent-
+     7.6 State the background of formulating the constitution
+     7.7 State the salient features of Bangladesh constitution.
+     7.8 Discuss the fundamental rights of a citizen in the
+     7.9 Difference between human rights and fundamental
+  Unit 04: 
+  Unit 08: context of Bangladesh constitution.
+  Unit 8: Rahman.
+     8.1 State the biography of Bangabandhu Sheikh Mujibur
+     8.2 State the historic speech of 7 March, 1971.
+     8.3 Describe the significance of historic speech of 7 March
+     8.4 Describe the role of Bangabandhu Sheikh Mujibur
+     8.5 Discuss the mournful 15 August, 1975.
+  Unit 03: 
+  Unit 05: CULTURE AND CIVILIZATION OF BANGLADESH &
+  Unit 9: Chakma, Rakhain and Santhal.
+     9.1 Define culture and civilization.
+     9.2 State the elements of culture and cultural lag.
+     9.3 Define ethnic group.
+     9.4 Discuss the social and cultural lifestyle of Garo,
+     9.5 Describe
+  Unit 03: 
+  Unit 05: 
+  Unit 10: 
+     10.1 State the main organs of United Nations.
+     10.2 State the functions of General Assembly.
+     10.3 State the functions of Security Council.
+     10.4 State the specialized agencies of United Nations.
+     10.5 Discuss the role of United Nations.
+     10.6 Discuss the role of Bangladesh in the United Nations.
+  Unit 02: 
+  Unit 04: Total
+  Unit 32: 
+  Unit 60: Recommended Books:
+  Unit 01: ‡cŠibxwZ
+  Unit 02: ivóªweÁv‡bi K_v
+  Unit 03: mgvRweÁvb cwiwPwZ
+  Unit 04: mgvRweÁvb mgxÿY
+  Unit 05: A_©bxwZ
+  Unit 06: A_©bxwZ
+  Unit 07: evsjv‡`‡ki BwZnvm
+  Unit 08: ‘Mahasthangarh’, ‘Paharpur’,
+  Unit 09: evsjv‡`‡ki BwZnvm 1947-1971
+  Unit 10: evsjv‡`‡ki Af~¨`q
+  Unit 11: BwZnvm: mgvR I ms¯‹…wZ fvebv
+  Unit 12: Amgvß AvZ¥Rxebx
+  Unit 13: KvivMv‡ii †ivRbvgPv
+
+====================================================
+COURSE: 25922 - PHYSICS-II (from 3rd - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 3: 
+  Unit 3: 
+  Unit 4: Rationale
+  Unit 1: State
+     1.1 Define Heat & Temperature
+     1.2 Mention the unit of Heat & Temperature
+     1.3 Relate between different scale of Temperature
+     1.5 Define specific heat, thermal capacity and water equivalent
+     1.6 Mention units of specific heat, thermal capacity and water
+     1.7 Explain the principle of Calorimetry,
+     1.8 Discuss various kinds of specific latent heat
+  Unit 4: 
+  Unit 5: 
+     5.1 Define Charge and Nature of charge.
+     5.2 State the Law of attraction and repulsion of charge.
+     5.3 Explain the Coulomb’s Law
+     5.4 Define Electric field and electric intensity.
+     5.5 Define Electric Potential and Potential difference
+     5.6 Relate between electric intensity and electric Potential.
+     5.7 Define Capacitor and capacitance.
+     5.8 Explain Energy of Capacitor.
+     5.9 Mention the Uses of capacitor.
+  Unit 2: EFFECT OF HEAT ON MATERIALS
+     2.1 Define linear, superficial and cubical expansion of solid.
+     2.2 Define Coefficient of linear, superficial and cubical expansion
+     2.3 Relate between coefficient of linear, superficial and cubical
+     2.4 Explain the methods of heat transfer by conduction,
+     2.5 Define Thermal conductivity and Coefficient of the thermal
+     2.6 List the factors which determine the quantity of heat (Q) flowing
+     2.7 Explain Greenhouse effect.
+  Unit 4: 
+  Unit 7: expansion of solid.
+  Unit 3: NATURE OF HEAT AND MECHANICAL EQUIVALENT
+     3.1 Describe the caloric theory and kinetic theory of heat
+     3.2 State the limitation of the caloric theory of heat
+     3.3 Explain the mechanical equivalent of heat
+     3.4 Explain the first law of thermodynamics
+     3.5 Explain Isothermal and adiabatic change.
+     3.6 Describe Specific heat of a gas, Molar specific heat or molar
+     3.7 Define heat engine
+     3.8 Explain the principle of Carnot’s cycle.
+     3.9 Distinguish between internal combustion engine and external combustion
+  Unit 4: 
+  Unit 6: 
+     6.1 Describe Earth's Magnetism.
+     6.2 Define Magnet, Magnetic Substance, Non-magnetic
+     6.3 Define Magnetic field, Magnetic Intensity.
+     6.4 Explain Magnetic Permeability, Magnetic Susceptibility
+     6.5 Explain Declination & inclination, Horizontal Component of
+     6.6 Classify Magnetic Materials
+     6.7 Compare among Diamagnetic, Paramagnetic and
+     6.8 Describe Magnetic Domain.
+  Unit 4: ELECTROSTATIC
+  Unit 4: 
+  Unit 7: 
+  Unit 5: MAGNETISM
+  Unit 4: 
+  Unit 7: Earth's Magnetic field BH or H of Magnetic Elements of Earth
+     7.1 Define mirror (plane and spherical), image (real and virtual)
+     7.2 Classify mirror and image
+     7.3 Describe the reflection of light
+     7.4 State the laws of reflection of right
+     7.5 Describe the verification of laws of reflection
+     7.6 Define pole, principal axis, center of curvature, radius of
+     7.7 Express the general equation of concave and convex mirror
+     7.8 Mention the uses of mirror and identify of Mirror.
+  Unit 6: REFLECTION OF LIGHT
+  Unit 4: 
+  Unit 8: 
+     8.1 Describe refraction of light
+     8.2 State the laws of refraction
+     8.3 Express the verification of laws of refraction
+     8.4 Describe critical angle and total internal refract reflection.
+     8.5 Relate between refractive index, minimum deviation of angle
+     8.6 Define lens
+     8.7 Mention the kinds of lens.
+     8.8 Define center of curvature, radius of Curvature, Principal
+     8.9 Derive general equation of the lens (Concave and convex)
+     8.10 Explain power of lens and equivalent of lens.
+  Unit 7: REFRACTION OF LIGHT
+  Unit 4: 
+  Unit 8: 
+  Unit 8: PHYSICAL OPTICS
+  Unit 9: Polarization of Light.
+     9.1 Describe Electromagnetic Wave
+     9.2 Define Poynting Vector
+     9.3 Describe Electromagnetic Spectrum
+     9.4 Mention the wavelength of visible light spectrum
+     9.5 Define Light Year
+     9.6 Define Wave and Wave front
+     9.7 State the Huygens’ Principle
+     9.8 Define Coherent Source
+     9.9 Define Interference of Light, Diffraction of Light and
+     9.10 Classify Interference of Light, Diffraction of Light and
+  Unit 4: 
+  Unit 8: 
+  Unit 9: PHOTO ELECTRIC EFFECT
+  Unit 10: 
+     10.1 Describe Electrical conductivity of gases.
+     10.2 Describe Discharge tube.
+     10.3 Define Cathode ray and X- Ray
+     10.4 Mention the properties of Cathode ray and X- Ray
+     10.5 Mention the use of X- Ray
+     10.6 Discuss photo electric effect
+     10.7 Derive Einstein's photo electric equation.
+  Unit 4: 
+  Unit 6: 
+  Unit 10: STRUCTURE OF ATOM
+  Unit 11: model
+     11.1 Describe the concept of structure of Atom
+     11.2 Discuss Thomson of Atomic models
+     11.3 Discuss Rutherford model of atomic models
+     11.4 Discuss Bohr model of atomic models
+     11.5 Derive the equation of Radius and Energy by using Bohr
+     11.6 Explain Energy level of Electron
+     11.7 Derive the frequency of Photon by using Hydrogen atom
+  Unit 3: 
+  Unit 6: 
+  Unit 11: NUCLEAR PHYSICS
+  Unit 12: 
+     12.1 Explain radioactivity
+     12.2 Describe radioactive rays
+     12.3 Deduce Radioactive decay law
+     12.4 Define half- life and mean-life of radioactive atom
+     12.6 Describe Nuclear Reactor
+     12.7 Explain nuclear fission & fusion.
+  Unit 3: 
+  Unit 7: 
+  Unit 12: MODERN PHYSICS
+  Unit 13: 
+     13.1 Describe the concept of Modern Physics
+     13.2 Discuss about Reference frame
+     13.3 Explain Inertial and Non-Inertial Reference
+     13.4 Describe reference frame and Motion
+     13.5 Postulates of special Theory of Relativity
+     13.6 Explain the Galilean Transformation
+     13.7 Describe Lorentz Transformation
+     13.8 Define Black Holes and black body radiation.
+  Unit 3: 
+  Unit 7: 
+  Unit 13: THEORY OF RELATIVITY AND ASTRO PHYSICS
+  Unit 14: 
+     14.1 Describe Relativity
+     14.2 Discuss the types of Relativity
+     14.3 Explain Einstein's theory of Relativity
+     14.4 Describe the Relativity of time: Time Dilation
+     14.5 Discuss Relativity of Length : Length Contraction
+     14.6 Discuss Relativity of mass
+     14.6 Relate between mass and Energy (E=mc2)
+  Unit 3: 
+  Unit 6: Total 48
+  Unit 90: 
+
+====================================================
+COURSE: 25931 - Mathematics-III (from 3rd - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 3: 
+  Unit 3: 
+  Unit 4: Rationale
+  Unit 3: 
+  Unit 5: 
+  Unit 2: ALGEBRA (Exponential series):
+  Unit 3: 
+  Unit 8: 
+  Unit 3: ALGEBRA (Binomial theorem):
+  Unit 4: 
+  Unit 10: 
+  Unit 4: GEOMETRY (Circle):
+     4.1 Define circle, center and radius.
+     4.2 Find the equation of a circle in the form:
+     4.3 Find the equation of a circle described on the line joining (x1, y1) and (x2, y2).
+     4.4 Define tangent and normal.
+     4.5 Find the condition that a straight line may touch a
+     4.6 Find the equations of tangent and normal to a circle at
+     4.7 Solve the problems related to equations of circle
+  Unit 4: 
+  Unit 8: 
+  Unit 5: GEOMETRY (Conic or conic sections):
+     5.1 Define Conic, Focus, Directorix and Eccentricity.
+     5.2 Find the equations of Parabola, Ellipse and Hyperbola.
+     5.3 Solve problems related to Parabola, Ellipse and Hyperbola
+  Unit 5: 
+  Unit 8: 
+  Unit 6: MENSURATION(Area of Triangle):
+     6.1 Find the area of triangle in the form,
+     6.2 Use formula in 1.1 to solve problems.
+  Unit 3: a2 , a = length of a side of equilateral triangle.
+  Unit 4: a = length of equal sides, c = third side.
+  Unit 4: A=  s (s − a)(s − b)(s − c) , where a, b, c = length of the sides of a Triangle and
+  Unit 3: 
+  Unit 5: 
+  Unit 7: MENSURATION (Areas of quadrilateral, Parallelogram, rhombus & trapezium)
+     7.1 Define quadrilateral & Parallelogram.
+     7.2 Find the areas of quadrilateral when off sets are given.
+     7.3 Find the areas of a parallelogram.
+     7.4 Solve problems using above formulae.
+     7.5 Define rhombus & trapezium.
+     7.6 Find the areas of rhombus when the diagonals are given.
+     7.7 Find the areas of trapezium in terms of its parallel sides and the perpendicular distance
+     7.8 Solve problems related to rhombus & trapezium.
+  Unit 4: 
+  Unit 8: 
+  Unit 8: MENSURATION (Finding areas of regular polygon):
+     8.1 Define a regular polygon.
+     8.2 Find the area of a regular polygon of n sides, when
+     8.3 Find the area of a regular.
+     8.4 Solve problems of the following’s types:
+  Unit 3: 
+  Unit 5: 
+  Unit 9: MENSURATION (Areas of circle, sector and segment):
+     9.1 Define circle, circumference, sector and segment.
+     9.2 Find the circumference and area of a circle when its radius is given.
+     9.3 Find the area of sector and segment of a circle.
+     9.4 Solve problems related to the above formulae.
+  Unit 3: 
+  Unit 5: 
+  Unit 10: MENSURATION (Area & Volume of a rectangular solid):
+     10.1 Define rectangular solid and a cube.
+     10.2 Find geometrically the volume of a rectangular solid when its length, breadth and height
+     10.3 Find the volume and diagonal of a cube when side is given.
+     10.4 Solve problems with the help of 8.2 & 8.3.
+  Unit 3: 
+  Unit 5: 
+  Unit 11: MENSURATION (Surface area & volume of a prism):
+     11.1 Define a prism.
+     11.2 Explain the formulae for areas of curved surfaces of prism.
+     11.3 Explain the formulae for volume of prism when base and height are given.
+     11.4 Solve problems related to 9.2, 9.3
+  Unit 3: 
+  Unit 5: 
+  Unit 12: MENSURATION (Area & volume of Parallelepiped and cylinder):
+     12.1 Define a parallelepiped and a cylinder.
+     12.2 Explain the formulae for areas of curved surfaces of parallelepiped and cylinder.
+     12.3 Explain the formulae for volume of parallelepiped and cylinder when base and height
+     12.4 Solve problems related to 10.1, 10.2, 10.3
+  Unit 4: 
+  Unit 8: 
+  Unit 13: MENSURATION (Surface area & volume of pyramid):
+     13.1 Define pyramid.
+     13.2 Explain the formula for areas of curved surfaces of pyramid. Explain the formula
+     13.3 Solve problems related to 11.2, 11.3
+  Unit 3: 
+  Unit 5: 
+  Unit 14: MENSURATION (Surface area & volume of cone and sphere):
+     14.1 Define cone and sphere.
+     14.2 Explain the formula for areas of curved surfaces of cone and sphere.
+     14.3 Explain the formula for volumes of cone and sphere.
+     14.4 ssSolve problems related to 9.2, 9.3
+  Unit 3: 
+  Unit 5: Total
+  Unit 48: 
+  Unit 90: 
+
+====================================================
+COURSE: 28531 - Basic Application Development in Python (from 3rd - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 1: PYTHON FUNCTIONS
+     1.1 Define function.
+     1.2 Distinguish between library and users define functions.
+     1.3 State the procedure to call a function.
+     1.4 Explain passing by reference versus passing by value in function.
+     1.5 Describe function arguments.
+     1.6 Mention the uses of date and time function.
+     1.7 Write program using user define functions.
+  Unit 4: 
+  Unit 6: 
+  Unit 2: FILE OPERATION IN PYTHON
+     2.1 State file operation.
+     2.2 Describe the file opening mode.
+     2.3 Describe the file opening and closing functions.
+     2.4 Explain the file reading and writing functions.
+     2.5 Write programs using file input and output operations.
+  Unit 2: 
+  Unit 4: 
+  Unit 3: MODULE, PACKAGE AND APPLICATION SOFTWARE
+     3.1 Define application software.
+     3.2 Classify application software.
+     3.3 State use of application software.
+     3.4 Define module & package.
+     3.5 Describe importance of modules and packages.
+     3.6 Write program to create module.
+     3.7 Write program to create package.
+  Unit 2: 
+  Unit 4: 
+  Unit 4: BASICS OF OOP (Object Oriented Programming)
+     4.1 Define OOP.
+     4.2 State the importance of OOP.
+     4.3 Mention the features of OOP.
+     4.4 Describe classes & objects with example.
+     4.5 Describe basic structure of class.
+     4.6 Write a programs using class.
+  Unit 3: 
+  Unit 6: 
+  Unit 5: FOUR PILLARS OF OOP
+     5.1 Mention the four pillars of OOP.
+     5.2 Explain the importance of four pillars.
+     5.3 State inheritance with example.
+     5.4 Explain encapsulation with example.
+     5.5 Explain polymorphism with example.
+     5.6 Define abstraction with example.
+     5.7 Write programs using inheritance, polymorphism and
+  Unit 5: 
+  Unit 9: 
+  Unit 6: PYTHON ITERATOR, GENERATOR AND DECORATORS
+     6.1 Define iterator, generator and decorators
+     6.2 Explain the working procedure of iterator.
+     6.3 Describe the working procedure of generator.
+     6.4 Illustrate the working procedure of decorators.
+     6.5 Write a programs using iterator, generator and decorators.
+  Unit 2: 
+  Unit 4: 
+  Unit 7: EXCEPTION & ERROR HANDLING IN PYTHON
+     7.1 Define exceptions in python.
+     7.2 Mention the built in exceptions in python.
+     7.3 Describe the raising an exception in python.
+     7.4 Explain the try and except block in python.
+     7.5 Illustrate else and finally clause in python.
+     7.6 Write programs for exception and error handling.
+  Unit 4: 
+  Unit 7: 
+  Unit 8: LOGGING IN PYTHON
+     8.1 Define logging in python.
+     8.2 Illustrate the circumstances of logging.
+     8.3 Mention levels of logging.
+     8.4 Describe the working procedure of logging.
+     8.5 Describe configuration and output formatting of logging.
+  Unit 3: 
+  Unit 5: 
+  Unit 9: test) library.
+     9.1 Define unit testing (unit test) in python.
+     9.2 Describe the importance of unit testing (unit test) in python.
+     9.3 Explain the structure of unit testing (unit test).
+     9.4 Describe unit testing procedure using python built in unit test (unit
+     9.5 Mention requirements of the unit test to write and execute the code
+  Unit 3: 
+  Unit 6: 
+  Unit 10: PYTHON REGEX. (REGULAR EXPRESSION)
+     10.1 Define regular expression (RegEx) in python.
+     10.2 Mention the built in methods in python RegEx.
+     10.3 Illustrate RegEx, meta characters and sequence.
+     10.4 Describe the working procedure of RegEx in python.
+     10.5 Write a programs using RegEx for searching specific word in a
+  Unit 2: 
+  Unit 4: 
+  Unit 11: APPLICATION SOFTWARE
+     11.1 Define application software with example
+     11.2 Mention the types of application software
+     11.3 Illustrate the features of application software
+     11.4 Describe the usage of application software
+     11.5 Explain the function of application software
+  Unit 2: 
+  Unit 5: Total
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 26831 - Digital Electronics - I (from 3rd - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 1: FUNDAMENTALS OF DIGITAL ELECTRONICS.
+     1.1 Define digital Electronics.
+     1.2 Mention the characteristics of digital signal.
+     1.3 Compare digital signal with analog signal.
+     1.4 Describe logic level, Negative logic level and positive logic level,
+     1.5 Explain the parameter Frequency, Time period, Rise time, Fall time,
+  Unit 2: 
+  Unit 3: 
+  Unit 2: NUMBER SYSTEMS AND CODES
+     2.1 Define Number system and Base of number system.
+     2.2 Describe different types of number system (Decimal, Binary, Octal
+     2.3 Convert one number system to another.
+     2.4 Determine 1’s & 2’s complement of binary number.
+     2.5 Compute binary arithmetic.
+     2.6 Describe 8421, Excess–3code, Gray code, BCD code, Hamming code,
+     2.7 Convert of one code to another.
+     2.8 Describe the addition and subtraction BCD coded number.
+     2.9 Describe Repeated Shift  methods for division  multiplication.
+  Unit 4: 
+  Unit 4: 
+  Unit 3: LOGIC GATES
+     3.1 Define logic gate.
+     3.2 Classify logic gate.
+     3.3 Describe logic statements, truth table, Boolean equation and
+     3.4 Analyze the electrical circuit for each gate.
+     3.5 Describe pin and signals of different gate IC.
+  Unit 3: 
+  Unit 4: 
+  Unit 4: SIMPLIFICATION OF LOGIC CIRCUITS
+     4.1 Define Boolean algebra.
+     4.2 Describe the laws and rules of Boolean Algebra.
+     4.3 State the DE Morgan’s theorems.
+     4.4 Derive standard SOP and POS equation from truth table.
+     4.5 Explain shorthand notation Y = m1+ m3 + m4 + … =  (1, 3, 4 …) and
+     4.6 Simplify Boolean expression and logic circuit using Boolean algebra
+     4.7 Define Karnaugh map.
+     4.8 Describe the structure and simplification methods of Karnaugh
+     4.9 Simplify up to four variable standard and nonstandard Boolean
+  Unit 4: 
+  Unit 8: 
+  Unit 5: Digital IC and Logic Family.
+     5.1 Define Logic Family.
+     5.2 Classify digital IC based on scale of integration.
+     5.3 List the advantages of using IC in digital system.
+     5.4 Mention the different types of IC logic families
+     5.5 Explain fan-in, fan-out, noise-margin, propagation delay, TTL and
+  Unit 3: 
+  Unit 5: CMOS logic levels and power dissipation
+     5.6 Describe the TTL, DTL, CMOS circuitry of NOT, AND, OR, NAND &
+  Unit 6: COMBINATIONAL LOGIC CIRCUITS.
+     6.1 Define Combinational logic circuit.
+     6.2 Explain the operation of Binary comparator circuits.
+     6.3 Describe the Pin diagram of commonly used 4-bit comparator ICs.
+     6.4 Describe the operation of parity generator and detector circuit.
+     6.5 Describe the logic circuit error detection and correction with
+  Unit 3: 
+  Unit 7: 
+  Unit 7: ARITHMATIC LOGIC CIRCUITS
+     7.1 Describe the operation of half adder, full adder and4 bit parallel
+     7.2 Explain the operation of half Sub tractor, full Sub tractor and 4 bit
+     7.3 Mention the Basic principle of ALU
+     7.4 Describe the pin and signals of ALU chips.
+     7.5 Explain the operation of shift and add multiplier circuit.
+     7.6 List the application of combinational logic circuit.
+  Unit 3: 
+  Unit 7: 
+  Unit 8: MULTIPLEXERS AND DEMULTIPLEXER
+     8.1 Define multiplexers and demultiplexer.
+     8.2 Describe the operation of 2:1, 4:1 and 8:1 multiplexer with logic
+     8.3 Describe the operation of 1:2, 1:4 and 1:8 demultiplexers with logic
+     8.4 State the use of multiplexer & demultiplexer.
+     8.5 Describe the Pin diagram of commonly used 4-bit comparator ICs
+     8.6 Distinguish between Decoder and Demultiplexer.
+  Unit 3: 
+  Unit 6: 
+  Unit 9: ENCODER AND DECODER
+     9.1 Define Encoder and Decoder.
+     9.2 Explain the logic circuit of 4 to 2, 8 to 3 & priority encoder.
+     9.3 Analyz the logic circuit of 2 to 4, 3 to 8 decoder circuit.
+     9.4 Describe the pins and signals of 74138 and 74154 decoder IC.
+     9.5 State the working principle of LCD, LED, Seven-segment and
+     9.6 Sketch the diagram of commonly used 4-bit BCD
+  Unit 3: 
+  Unit 6: 
+  Unit 10: SEQUINTIAL LOGIC CIRCUITS
+     10.1 Define sequential logic circuit.
+     10.2 Describe the operation of SR latch, D Latch with truth table and
+     10.3 Mention the disadvantages of SR Latch.
+     10.4 Discuss positive & negative level and edge triggering.
+     10.5 Explain the operation of JK Flip-Flop, D Flip-Flop and Master-slave
+     10.6 Define three state logic.
+     10.7 Describe the pin and signals of  7474,7476, 74273 and 74573 IC
+     10.8 List the application of different types of Flip-Flops.
+  Unit 4: 
+  Unit 10: Total
+     10.9 Describe internal  block diagram of 555 timer IC.
+     10.10 Explain the operation of Clock generator ciruit  using 555  timer.
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 25841 - Accounting (from 5th - 85-COMPUTER SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: 
+     1.1 Define accounting.
+     1.2 State the objectives of accounting.
+     1.3 State the advantages of accounting.
+     1.4 State the necessity and scope of accounting.
+  Unit 2: 
+     2.1 Define transaction.
+     2.2 Define business transaction.
+  Unit 3: TRANSACTION ANALYSIS
+  Unit 2: 
+  Unit 3: ENTRY SYSTEM OF ACCOUNTING
+     3.1 Define single and double entry system.
+     3.2 Discuss the principles of double entry system.
+     3.3 Justify whether double entry system is an improvement
+     3.4 Distinguish between single entry and double entry
+  Unit 1: 
+  Unit 3: CONCEPT OF ACCOUNTS
+  Unit 4: accounts.
+     4.1 Define accounts.
+     4.2 State the objectives of accounts.
+     4.3 Illustrate different type of accounts.
+     4.4 State the golden rules of accounting.
+     4.5 State the rules for debit and credit in each class of
+     4.6 Define accounting cycle.
+  Unit 2: 
+  Unit 3: JOURNAL ENTRY SYSTEM
+  Unit 5: 
+     5.1 Define journal.
+     5.2 State the objective of journal.
+     5.3 Mention the various names of journal.
+     5.4 Prepare the form of journal entry system.
+     5.5 Solve the problem related journal entry system.
+  Unit 4: 
+  Unit 10: LEDGER
+  Unit 6: accounts”
+     6.1 Define ledger
+     6.2 Interpret the form of ledger
+     6.3 Distinguish between journal and ledger
+     6.4 Explain “ledger is called the king of all books of
+     6.5 Prepare ledger from given transaction
+  Unit 2: 
+  Unit 3: CASH BOOK ANALYSIS
+  Unit 7: transactions showing balances.
+     7.1 Define cash book.
+     7.2 Classifycash book.
+     7.3 Explain cash book as both journal and ledger.
+     7.4 Explain the different types of discount.
+     7.5 Prepare different types of cash books from given
+  Unit 4: 
+  Unit 10: TRIAL BALANCE ANALYSIS
+  Unit 8: 
+     8.1 Define trial balance.
+     8.2 State the objective of a trial balance.
+     8.3 Mentiion the reasonnon-agreement of trial balance.
+     8.4 Prepare trial balance from given balance.
+  Unit 3: 
+  Unit 3: 
+  Unit 10: 
+     10.1 Define income tax.
+     10.2 State the objective of income tax.
+     10.3 Classify of assesses.
+     10.4 State the Taxable income of assesses.
+     10.5 Describe the Tax rebate.
+     10.6 Describe ther Income tax year, assessment year and
+  Unit 20: 
+  Unit 9: and loss account and the balance sheet
+     9.1 State the components of final accounts
+     9.2 Distinguish between trial balance and balance sheet
+     9.4 List the items to be posted in the trading account profit
+     9.5 Prepare trading account profit and loss account and
+  Unit 2: 
+  Unit 2: Total 32
+  Unit 60: REFERENCE BOOKS
+
+====================================================
+COURSE: 28541 - JAVA PROGRAMMING (from 4th - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Overview of Java
+  Unit 3: 
+  Unit 3: 
+  Unit 2: Data types and Variables
+  Unit 2: 
+  Unit 3: 
+  Unit 3: Operators
+  Unit 3: 
+  Unit 7: 
+  Unit 4: Control Statements
+  Unit 4: 
+  Unit 7: 
+  Unit 5: Arrays
+  Unit 2: 
+  Unit 4: 
+  Unit 6: 
+  Unit 2: 
+  Unit 3: 
+  Unit 7: Methods and Constructors
+  Unit 3: 
+  Unit 8: 
+  Unit 8: Inheritance and Polymorphism
+  Unit 6: 
+  Unit 14: 
+  Unit 9: Packages
+  Unit 3: 
+  Unit 6: 
+  Unit 10: Interfaces
+  Unit 4: 
+  Unit 5: Total        32
+  Unit 60: 
+
+====================================================
+COURSE: 28542 - DATA STRUCTURE & ALGORITHM (from 4th - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Data structure
+     1.1 Define data & information.
+     1.2 Mention standard data types.
+     1.3 State Data Structure.
+     1.4 State types of data structure.
+     1.5 List the different types of data operation.
+     1.6 State Static and dynamic memory allocation.
+  Unit 3: 
+  Unit 3: 
+  Unit 2: Algorithm
+     2.1 State algorithm.
+     2.2 Mention the characteristics of algorithm.
+     2.3 State flowchart and pseudo code.
+     2.4 Explain algorithmic notations.
+     2.5 Describe the Complexity of algorithm.
+     2.6 Mention different types of algorithm.
+  Unit 2: 
+  Unit 4: 
+  Unit 3: Arrays, Pointers and Strings
+     3.1 Define Array, Pointer and String.
+     3.2 Mention different dimension of array with diagram.
+     3.3 Explain the initialization of Pointer.
+     3.4 Explain String declaration and initialization.
+     3.5 Describe the operations of String with example.
+     3.6 Write an algorithm for traversing in array.
+     3.7 Write an algorithm for inserting and deleting element of
+  Unit 3: 
+  Unit 5: 
+  Unit 4: Stack
+     4.1 Define stack.
+     4.2 Write the applications of stack in data structure.
+     4.3 State PUSH and POP.
+     4.4 Write an algorithm for adding & removing data into & from
+     4.5 Explain the concept of Infix, Postfix & Prefix expression.
+     4.6 Convert the simple infix expression to postfix or prefix
+  Unit 4: 
+  Unit 6: 
+  Unit 5: Queue
+     5.1 Define queue.
+     5.2 Write the applications of queue in data structure.
+     5.3 State FIFO & LIFO.
+     5.4 Distinguish between stack and queue.
+     5.5 Express the algorithms for data insert, delete into & from
+     5.6 State the de-queue data structure.
+  Unit 4: 
+  Unit 6: 
+  Unit 6: Linked list
+     6.1 Define linked list.
+     6.2 State memory allocation in linked list.
+     6.3 Explain the algorithms to traverse a linked list.
+     6.4 Explain the algorithms for searching a linked list.
+     6.5 Express the algorithms for data insert ,delete into & from
+  Unit 4: 
+  Unit 8: 
+  Unit 7: Tree
+     7.1 State the tree.
+     7.2 State Root, Node, Leaf, Keys, Sub-tree, Level of tree.
+     7.3 List the types of trees in data structure with diagram.
+     7.4 Discuss the properties of tree.
+     7.5 Explain the algorithms for data insertion, deletion into & from
+     7.6 Explain the algorithm for traversing a tree.
+  Unit 4: 
+  Unit 8: 
+  Unit 8: Searching operation
+     8.1 State different technics of search operation.
+     8.2 Explain the technic of linear & binary search.
+     8.3 Explain algorithm for linear search.
+     8.4 Explain the algorithm for binary search.
+     8.5 Compare  between complexity of linear & binary search
+  Unit 4: 
+  Unit 10: 
+  Unit 9: Sorting operation
+     9.1 List the sorting technics.
+     9.2 Describe the technics of bubble sort, quick sort & merge sort.
+     9.3 Write the algorithms for bubble sort, quick sort & merge sort.
+     9.4 Compare among  complexity of bubble sort, quick sort & merge
+  Unit 4: 
+  Unit 10: Total
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28543 - Computer Peripherals and Interfacing (from 4th - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 1: BASICS OF INTERFACING
+     1.1 Define peripheral and interfacing.
+     1.2 State the functions of interfacing.
+     1.3 State the necessity of interfacing.
+     1.4 State the Categories of interface.
+     1.5 State the function of each category of interface.
+     1.6 Mention the methods of peripheral interfacing.
+     1.7 State the steps of analog and digital interfacing in a computer system.
+     1.8 State the elements of interface.
+     1.9 Describe the function of a general purpose parallel interface with block diagram.
+  Unit 4: 
+  Unit 8: 
+  Unit 2: OPERATION OF SERIAL INTERFACES
+     2.1 State the necessity of serial interfacing.
+     2.2 Mention the asynchronous character and synchronous block data format for a
+     2.3 Describe the operation of asynchronous serial interface with block diagram (UART).
+     2.4 Describe the operation of synchronous serial interface with block diagram.
+     2.5 Distinguish the Characteristics of asynchronous and synchronous serial interface.
+     2.6 Describe the operation of an USART with block diagram.
+  Unit 5: 
+  Unit 9: 
+  Unit 3: OPERATION OF KEYBOARD AND MOUSE
+     3.1 Mention the types of keyboard switch.
+     3.3 Mention the desirable quality of key switches.
+     3.4 Describe the operation of keyboard encoder with block diagrams.
+     3.5 State the terms: bouncing, n-key rollover and n-key lockout.
+     3.6 Explain the flowchart for scanning the keyboard.
+     3.7 Describe the principle of hardware de-bouncing.
+     3.8 Describe the operation of an opt-mechanical mouse.
+     3.9 Describe the working principle of an optical mouse.
+     3.10 Describe the operation of wireless keyboard & wireless mouse.
+  Unit 5: 
+  Unit 9: 
+  Unit 4: OPERATION OF DISPLAYS AND ADAPTERS
+     4.1 Classify display devices.
+     4.2 State pixel, Horizontal and Vertical scanning, interlace and  non-interlace scanning,
+     4.3 Prepare the specification of a LED monitor.
+     4.4 Describe the operation of a LED.
+     4.5 Describe the principle of producing color pixel on LED screen.
+     4.6 Describe the operation of a color monitor using block diagrams.
+     4.7 Describe the general structure of a modern graphics adapter.
+     4.8 Describe the principle of producing a character on a LED displays.
+  Unit 5: 
+  Unit 9: 
+  Unit 5: CONSTRUCTIONAL AND OPERATIONAL FEATURE OF DOT MATRIX PRINTERS
+     5.1 Classify printers.
+     5.2 State the feature of a dot-matrix printer.
+     5.3 List the Major parts and components of a dot matrix printer.
+     5.4 Describe the operation of a dot matrix printer.
+     5.5 Describe the operation of the head driving circuit in a dot matrix printer.
+     5.6 Mention the advantages and disadvantages of dot matrix printers.
+     5.7 Prepare the specification of a dot matrix printer.
+  Unit 4: 
+  Unit 8: 
+  Unit 6: CONSTRUCTIONAL AND OPERATIONAL FEATURE OF PLOTTERS
+     6.1 State the features of plotter.
+     6.2 List the uses of plotter.
+     6.3 Classify plotters.
+     6.4 List the Major parts and components of a plotter.
+     6.5 Describe the operation of a plotter.
+     6.6 Mention the advantages and disadvantages of plotters.
+     6.7 Prepare the specification of a plotter.
+  Unit 3: 
+  Unit 5: 
+  Unit 7: OPERATION OF INKJET PRINTERS
+     7.1 State the principle of inkjet and bubble jet formation for printing.
+     7.2 Describe the operation of an inkjet printer.
+     7.3 List the Major parts and components of an inkjet printer.
+     7.4 Mention the advantages and disadvantages of an inkjet printer.
+     7.5 Prepare the specification of an inkjet printer.
+  Unit 3: 
+  Unit 6: 
+  Unit 8: OPERATION OF LASER PRINTERS
+     8.1 State the meaning of LASER.
+     8.2 Describe the operation of a LASER printer.
+     8.3 List the Major parts and components of a LASER printer.
+     8.4 State the function of each part and components of a LASER printer
+     8.5 Mention the advantages and disadvantages of an LASER printer.
+     8.6 Prepare the specification of a LASER printer.
+     8.7 Mention the steps of data exchange via parallel interface.
+  Unit 4: 
+  Unit 7: 
+  Unit 9: FEATURE AND OPERATIONAL OF POS
+     9.1 State the meaning of POS.
+     9.2 List the uses of POS.
+     9.3 List the Major parts and components of POS.
+     9.4 Prepare the specification of a LASER printer.
+  Unit 2: 
+  Unit 4: 
+  Unit 10: CHARACTERISTICS OF SPECIAL TYPE I/O DEVICES
+     10.1 List the special types of I/O devices.
+     10.2 State the characteristics of joy-stick and digitizer.
+     10.3 Describe the working principle of light pen.
+     10.4 Define scanner.
+     10.5 Classify scanner.
+     10.5 Describe the operation of a flatbed scanner.
+     10.6 State the uses of hand held scanner.
+  Unit 3: 
+  Unit 5: 
+  Unit 11: CHARACTERISTICS OF OPTICAL I/O DEVICES.
+     11.1 Define OMR, OCR, ICR and MICR.
+     11.2 Describe the characteristics of OMR, OCR, ICR and MICR.
+     11.3 Describe the advantages and limitations of MICR.
+     11.4 Prepare the specification of a Multimedia Projector.
+     11.5 Classify Multimedia Projector.
+     11.6 Describe the operation of a Multimedia Projector.
+     11.7 List the major parts and components of Multimedia Projector.
+  Unit 3: 
+  Unit 6: 
+  Unit 12: OPERATION OF HDD AND SSD DRIVES
+     12.1 Mention the data storage layout of a disk.
+     12.2 Describe the operation of a hard disk controller with block diagram.
+     12.3 Describe the operation hard disk drive.
+     12.4 Describe the recording principle in a hard disk.
+     12.5 Describe the operation of a SSD drives.
+     12.6 State the features of a SSD drives.
+  Unit 3: 
+  Unit 6: 
+  Unit 13: tape, magnetic disk and optical) for Micro-Computer systems with
+     13.1 State the methods of data recording (punch card/paper tape, magnetic
+     13.2 State the features of a flash memory as a secondary storage device.
+     13.3 Mention the data storage layout of a disk.
+     13.4 Describe the recording principle in a CD and DVD.
+     13.5 Describe the operation of optical disk drive (CD drive) and DVD drives.
+     13.6 State the features of a re-writable optical disk.
+     13.7 Describe the operation of USB devices.
+  Unit 4: 
+  Unit 8: Total
+  Unit 48: 
+  Unit 90: 
+
+====================================================
+COURSE: 28544 - Web Design and Development -1 (from 4th - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 1: WEB TECHNOLOGY AND INDUSTRY REQUIREMENT
+     1.1 State web technology and web development.
+     1.2 Explain front end, back end and full stack developer.
+     1.3 Describe the roles of a web developer.
+     1.4 State the Trends of IT enabled industries.
+     1.5 Describe the career opportunities of a web developer.
+     1.6 Describe the website design standards and conventions recommended from
+     1.7 Describe the URL
+  Unit 2: 
+  Unit 4: 
+  Unit 2: UI / UX AND MARKUP LANGUAGE
+     2.1 State UI and UX design.
+     2.2 Differentiate between UX and UI.
+     2.3 State the Markup Language.
+     2.4 List the different types of Markup language.
+     2.5 Explain Markup Language structures according to W3C markup language
+     2.6 State the tags and attributes of Markup language.
+  Unit 2: 
+  Unit 4: 
+  Unit 3: RESPONSIVE WEBSITE AND FRAMEWORK
+     3.1 State Responsive Website.
+     3.2 Explain Framework.
+     3.3 Mention the types of fronted framework.
+     3.4 Explain CSS structures according to W3C CSS coding guidelines and
+     3.5 Interpret syntax and variations of using CSS element tags and attributes.
+     3.6 Mention the uses of CSS in inline, internal, embedded or external way.
+  Unit 3: 
+  Unit 4: 
+  Unit 4: CLIENT-SIDE SCRIPTING LANGUAGE
+     4.1 State the Client Side Scripting language.
+     4.2 Explain structured of JavaScript.
+     4.3 Explain jQuery structures.
+     4.4 Describe JavaScript element tags and attributes.
+     4.5 List the common tools to develop JavaScript codes.
+     4.6 Describe jQuery built- in functions.
+  Unit 3: 
+  Unit 4: 
+  Unit 5: SERVER-SIDE SCRIPTING LANGUAGE (PHP)
+     5.1 Define Different type of server-side Scripting Language.
+     5.2 State PHP.
+     5.3 Explain variables and data types in PHP.
+     5.4 Explain Arrays in PHP.
+     5.5 Describe the different type of operators PHP.
+     5.6 Define control structure of PHP.
+     5.7 Describe If, If…else, Nested if…else, Switch, For loop, While loop, Foreach
+     5.8 Explain Break and continue statement.
+     5.9 Explain Include and require of PHP.
+     5.10 Explain Cookie and Session.
+  Unit 3: 
+  Unit 8: Describe built-in and user defined functions of PHP.
+  Unit 6: DATA MANIPULATION
+     6.1 Explain AJAX and JSON code.
+     6.2 Define Third party API.
+     6.3 Describe Weather, Rapid, Any, Firebase, AWS of Third-party API.
+     6.4 State Hypertext Transfer Protocol (HTTP).
+     6.5 Describe Post, Get, Put, Patch, Delete method of HTTP.
+     6.6 Describe CRUD operations.
+  Unit 3: 
+  Unit 6: Total
+  Unit 16: 
+  Unit 30: 
+
+====================================================
+COURSE: 26841 - Digital Electronics – II (from 4th - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 1: REGISTER
+     1.1 Define register and shift register.
+     1.2 Mention types of shift registers.
+     1.3 Describe the operation of buffer register.
+     1.4 Explain the operation of SISO, SIPO, PISO and PIPO shift
+     1.5 Describe the operation of left shift, right shift and universal shift
+     1.6 List the different types of common shift register IC chips.
+     1.7 Mention the uses of shift registers.
+  Unit 3: 
+  Unit 6: 
+  Unit 2: COUNTER
+     2.1 Define binary counter, modulus of counter and divided by N
+     2.2 Classify counter.
+     2.3 Differentiate between asynchronous and synchronous counter.
+     2.4 Describe the operation of 4-bit binary up, binary down, and
+     2.5 Describe the operation of MOD-10 counter.
+     2.6 Explain the operation of ring & Johnson counter with logic
+     2.7 Describe the operation of digital clock.
+  Unit 3: 
+  Unit 8: 
+  Unit 3: MEMORY
+  Unit 3: 
+  Unit 6: 
+  Unit 4: ANALOG TO DIGITAL CONVERTER (ADC) AND DIGITAL TO
+     4.1 Define ADC and DAC.
+     4.2 Mention the steps to convert analog signal to digital signal.
+     4.3 Describe the operation of sample and hold circuit.
+     4.4 Mention the types of ADC and DAC.
+     4.5 Explain the conversion process of 3-bit parallel ADC.
+     4.6 Describe the operation of successive approximation and dual
+     4.7 Discuss the operation of a binary weighted and R-2R ladder
+     4.8 State resolution, percentage of resolution, accuracy of ADC
+     4.9 List the ICs used as ADC and DAC.
+  Unit 3: 
+  Unit 8: 
+  Unit 5: PROGRAMMABLE LOGIC DEVICES (PLDs)
+     5.1 Defines PLD, AND array and OR Array.
+  Unit 4: 
+  Unit 5: 
+     5.2 Mention the advantages of PLD.
+     5.3 Classify PLD.
+     5.4 Describe the logic structure of PLA, PAL and GAL.
+     5.5 Interpret standard PAL and GAL numbering.
+     5.6 Describe the programming process of SPLD.
+     5.7 Discuss the block diagram of CPLD.
+     5.8 Discuss the block diagram of FPGA.
+     5.9 List the Application of PLDs, CPLD and FPGA.
+     5.1 State the meaning of SAP.
+     5.2 Describe the function of each stage of SAP-1 with block
+     5.3 State the function of control signals.
+     5.4 Explain each instruction of SAP-1 with binary code.
+     5.5 Write simple program using SAP-1 Instruction and show the
+     5.6 State the concept of machine cycle, fetch cycle, execution cycle
+     5.7 Describe the timing diagram of LDA, ADD and SUB
+     5.8 Describe the methods of micro programming.
+  Unit 6: SIMPLE AS POSSIBLE (SAP)-1 COMPUTER
+  Unit 4: 
+  Unit 8: 
+  Unit 7: FEATURES OF MICROPROCESSOR
+  Unit 4: 
+  Unit 8: 
+  Unit 8: PROGRAMMING OF 8085 MICROPROCESSORS
+  Unit 4: 
+  Unit 7: 
+  Unit 9: Interface (PPI).
+     9.1 Define microprocessor based system.
+     9.2 Describe the block diagram of a microprocessor based system.
+     9.3 Define Bus multiplexing.
+     9.4 Explain the process of multiplexing bus using latch.
+     9.5 Describe the technique of generate control signals.
+     9.6 Differentiate between memories mapped I/O and standard I/O.
+     9.7 Describe the block diagram of 8255 programmable peripheral
+     9.8 Discuss the function of Programmable Interval Timer.
+  Unit 4: 
+  Unit 4: Total
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 29061 - Environmental Studies (from 4th - 85-COMPUTER SCIENCE & TECHNOLOGY.pdf)
+====================================================
+  Unit 1: INTRODUCTION TO ENVIRONMENTAL STUDIES
+     1.1 Define nature, environment & environmental studies.
+     1.2 Mention the components of the environment.
+     1.3 Define pollution, pollutant & contaminant.
+     1.4 Classify different types of pollution.
+     1.5 Differentiate  between natural and man-made environments.
+     1.6 Define climate change.
+     1.7 Mention the impact of climate change.
+  Unit 2: 
+  Unit 4: 
+  Unit 2: ECOLOGY & ECOSYSTEM
+     2.1 Define ecology & eco-system.
+     2.2 Illustrate the water cycle.
+     2.3 Illustrate the carbon cycle.
+     2.4 Illustrate the nitrogen cycle.
+     2.5 Illustrate the oxygen cycle.
+     2.6 Define food chains and food webs.
+     2.7 Define Biodiversity, biomass, bioconcentration and bio
+     2.8 Describe Terrestrial and Aquatic ecosystem.
+     2.9 Define ecologically critical area (ECA), threatened species,
+     2.10 List the ecologically critical areas of Bangladesh.
+  Unit 2: 
+  Unit 4: 
+  Unit 3: GLOBAL AND NATIONAL ENVIRONMENTAL ISSUES
+  Unit 3: 
+  Unit 6: 
+  Unit 4: WATER AND WASTEWATER MANAGEMENT
+     4.1 Define water pollution, water pollutants and pollution sources.
+     4.2 Mention the sources of water pollution.
+     4.3 Mention the quality standards of drinking water and
+     4.4 Define wastewater management.
+     4.5 Explain effluents, influent and methods of effluent treatment.
+     4.6 Draw different schematic diagrams of effluent treatment
+     4.7 Explain the effects of water pollution on human health and the
+     4.8 Discuss the importance of water conservation.
+  Unit 5: 
+  Unit 10: environment.
+  Unit 5: AIR POLLUTION, ENERGY AND CARBON FOOTPRINT
+     5.1 Describe the sources, production, and consumption of energy.
+     5.2 Describe air pollution and sources of air pollution.
+     5.3 Define Carbon Footprint.
+     5.4 Define GHG emission and contribution to the greenhouse
+     5.5 Discuss the effects of energy consumption on Climate Change.
+     5.6 Explain the concept of energy efficiency.
+     5.7 Discuss Carbon Footprint calculation methods.
+     5.8 Discuss the importance of reducing Carbon Footprint.
+     5.9 Discuss the effect of air pollution on human health, vegetation,
+  Unit 5: 
+  Unit 8: 
+  Unit 6: NOISE POLLUTION
+     6.1 Define sound & sound wave.
+     6.2 Mention the scale of measuring sound intensity.
+     6.3 Define sound pressure & sound power.
+     6.4 Describe the sound intensity and loudness.
+     6.5 Define noise pollution.
+     6.6 Mention the sources of noise pollution.
+     6.7 Mention the effect of noise pollution on human health.
+     6.8 Explain the methods for noise prevention in the industry.
+  Unit 2: 
+  Unit 4: 
+  Unit 7: SOIL POLLUTION
+  Unit 2: 
+  Unit 4: 
+  Unit 8: SOLID WASTE MANAGEMENT
+     8.1 Define solid waste.
+     8.2 Identify the sources of solid waste.
+     8.3 Categorize different types of solid waste.
+     8.4 Discuss the solid waste collection methods.
+     8.5 Describe 3R and 4R methods of solid waste management.
+     8.6 Describe the potential method of disposal of solid waste.
+     8.7 Mention the waste management strategies in Bangladesh.
+     8.8 Discuss the impact of solid waste on environment and human
+  Unit 3: 
+  Unit 6: 
+  Unit 9: CHEMICAL MANAGEMENT
+     9.1 Define Chemical hazard.
+     9.3 State the benefits of chemical management.
+     9.4 Describe basic concepts of chemical segregation and storage.
+     9.7 Describe chemical pesticides.
+  Unit 4: 
+  Unit 7: exposure.
+  Unit 10: REGULATORY ISSUES OF ENVIRONMENT
+     10.1 Mention environmental act & legislations prescribed for air,
+     10.2 Discuss International protocols and agreements related to
+     10.3 Define environmental impact assessment (EIA).
+     10.4 Describe the environmental framework in Bangladesh.
+     10.5 Describe environmental conservation act 1995 in Bangladesh.
+     10.6 Describe the environment conservation rule 1997 in
+     10.7 Discuss the steps required to obtain Environmental Clearance
+  Unit 4: 
+  Unit 7: Total
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28551 - Application Development using Java (from 5th - 85-COMPUTER SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 2: 
+  Unit 3: 
+  Unit 3: Rationale
+  Unit 1: 
+     1.1 Define Class, Object and Method
+     1.2 Describe the declaration (Syntax) of Class, Object and Method in Java
+     1.3 State the procedure to assign the object reference variable
+     1.4 Describe Creational Design Pattern in Java
+  Unit 3: 
+  Unit 6: 
+  Unit 2: METHOD
+     2.1 Mention the process of adding method to a Class
+     2.2 Describe method overloading in Java
+     2.3 Describe constructor method
+     2.4 Compare between overloaded method and overridden method
+     2.5 Explain instance variable hiding and garbage collection
+  Unit 3: 
+  Unit 6: 
+  Unit 3: OOP in JAVA
+     3.1 Describe the pillars of Object Oriented Programming (OOP) in Java
+     3.2 Explain different types of inheritance
+     3.3 Explain the implementation procedure of interface
+     3.4 Describe run time polymorphism
+     3.5 Mention the uses of abstract class and final keyword
+  Unit 4: 
+  Unit 10: 
+  Unit 4: STRINGS AND CHARACTERS
+     4.1 State character, character constant and string with example
+     4.2 Mention the string constructors used in Java
+     4.3 Mention the Java string methods with example
+     4.4 Differentiate between string and string buffer in Java
+     4.5 Explain Java string buffer class with constructors and capacity
+  Unit 3: 
+  Unit 6: 
+  Unit 5: EXCEPTION HANDLING
+     5.1 Define error, exception and exception handling with example
+     5.2 Mention the advantages of Java exception handling
+     5.3 State hierarchy of Java exception classes
+     5.4 State different  types of Java exception
+     5.5 Discuss the Keywords used in Java exception handling
+     5.6 Mention the common scenarios of Java exception
+     5.7 Describe exception handling approaches with example
+  Unit 3: 
+  Unit 6: 
+  Unit 6: JAVA DATABASE CONNECTIVITY
+  Unit 4: 
+  Unit 6: 
+     6.1 State Java Database Connectivity (JDBC)
+     6.2 Mention the importance of JDBC
+     6.3 Discuss the common JDBC Components
+     6.4 Mention the types of JDBC Drivers
+     6.5 Discuss the steps of java program and database connectivity
+     6.6 Explain JDBC Statements
+  Unit 7: SWING
+     7.1 Define Java Swing with example
+     7.2 State the main features of Java Swing
+     7.3 Discuss the Swing Components with example
+     7.4 Discuss Swing Packages in Java
+     7.5 Mention the hierarchy of Java Swing Classes
+  Unit 4: 
+  Unit 6: 
+  Unit 8: SERVLET
+     8.1 Define  Servlet with example
+     8.2 Mention the application of Servlet
+     8.3 Discuss the Components of Servlet Architecture
+     8.4 Describe the life cycle of a Servlet
+     8.5 Discuss the different method of Servlet
+     8.6 Describe session management and cookies in Servlet
+  Unit 4: 
+  Unit 6: 
+  Unit 9: EVENT HANDLING
+     9.1 Explain event handling with example
+     9.2 Mention the types of event handling in Java
+     9.3 Discuss the ways of event handling in Java
+     9.4 State delegation event model
+     9.5 Describe event sources and event listeners of delegation model
+     9.6 Discuss the event handling classes
+     9.7 Define annotation with example
+     9.8 Discuss the uses of different types of annotations
+  Unit 4: 
+  Unit 8: 
+  Unit 10: TOTAL
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28552 - Web Design and Development -II (from 5th - 85-COMPUTER SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Client Side Scripting Language Framework
+     1.1 State Document Object Model (DOM ).
+     1.2 Describe the manipulation of DOM.
+     1.3 State Client-Side framework.
+     1.4 Describe different client-side framework.
+     1.5 Explain JavaScript runtime environments.
+  Unit 2: 
+  Unit 6: 
+  Unit 2: DYNAMIC WEBSITE AND FRAMEWORK
+     2.1 State dynamic website.
+     2.2 Mention the characteristics of dynamic website.
+     2.3 Differentiate between static website and dynamic website.
+     2.4 Define framework.
+     2.5 Describe different types of framework.
+     2.6 Explain DML and DDL for database.
+  Unit 3: 
+  Unit 6: 
+  Unit 3: 
+     3.1 State Content Management System (CMS)
+     3.2 List the features of CMS
+     3.3 Mention the advantages and disadvantages of CMS
+     3.4 Define  cPanel.
+     3.5 State cPanel components.
+     3.6 Define dashboard.
+     3.7 Describe dashboard components.
+  Unit 3: 
+  Unit 4: 
+  Unit 4: E-Commerce
+     4.1 Define E-Commerce .
+     4.2 State the features of E-Commerce .
+     4.3 Describe the structure of E-Commerce .
+     4.4 State E-Commerce  payment systems.
+     4.5 State security standard for E-Commerce .
+  Unit 2: 
+  Unit 4: 
+  Unit 5: Domain and Hosting
+     5.1 Define domain, sub-domain and add-on domain.
+     5.2 Describe domain registration process.
+     5.3 Describe the functions of BTCL & BTRC.
+     5.4 Define web hosting.
+     5.5 Describe the web hosting process.
+     5.6 State the hosting server.
+     5.7 State HTTP, SSL, HTTPs, TLS and AV filtering.
+  Unit 3: 
+  Unit 4: 
+  Unit 6: Web Security and Search Engine Optimization (SEO)
+     6.1 State web security.
+     6.2 Describe security threats for web with reason.
+     6.3 Explain website security model.
+     6.4 State hacker with classification.
+     6.5 State Search Engine Optimization(SEO).
+     6.6 Explain different types of SEO techniques.
+  Unit 3: 
+  Unit 6: Total
+  Unit 16: 
+  Unit 30: 
+
+====================================================
+COURSE: 28553 - Computer Architecture & (from 5th - 85-COMPUTER SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Architecture of Simple As Possible computer (SAP-1)
+     1.1 Define computer architecture
+     1.2 Describe architecture of Simple As Possible computer (SAP-1)
+     1.3 Describe function of control bits of SAP-1 Controller/Sequencer
+     1.4 Describe function of each instruction of SAP-1 computer
+     1.5 Write  basic programs using SAP-1 instruction
+  Unit 5: 
+  Unit 10: 
+  Unit 2: Basics of Computer Architecture
+     2.1 Describe organization of Stored-program Computer system
+     2.2 Describe basic instruction types
+     2.3 Explain Expanding and Huffman op-code Encoding techniques
+     2.4 Compare between RISC and CISC
+     2.5 State different techniques of Parallel processing
+     2.6 Describe architecture of General register, accumulator-based and
+  Unit 4: 
+  Unit 12: 
+  Unit 3: Basics of CPU design
+     3.1 Interpret basic function of ALU and Control unit
+     3.2 Describe a typical CPU model
+     3.3 Explain the design of 4-bit General Register and 4-bit Parallel Adder
+     3.4 Discuss simple organization of a 4-bit Arithmetic unit
+     3.5 Discuss simple organization of a two function Logic unit
+     3.6 Explain the design structure of a 4-bit ALU
+     3.7 Describe the instruction interpretation and instruction sequencing of
+     3.8 Illustrate Hardwired & Microprogramming approach for control unit
+     3.9 Describe the techniques of coprocessor interfacing
+  Unit 5: 
+  Unit 12: 
+  Unit 4: Memory organization and I/O system
+     4.1 Illustrate Centralized and Distributed memory organization
+     4.2 Design a 4K x 4 RAM using four 1K x 4 RAM chips
+     4.3 Describe the working principle of four platters Electro-mechanical
+     4.4 Explain the memory organization of Cache memory
+     4.5 State basic concept of Programmed I/O, Interrupt I/O and DMA system
+  Unit 4: 
+  Unit 8: 
+  Unit 5: Architecture of 8086 Microprocessor
+     5.1 State evaluation up to  64 bit of microprocessor
+     5.2 Distinguish between microprocessor and microcontroller
+     5.3 Mention the general features of 8086 microprocessor
+     5.4 Describe the architecture of 8086 microprocessor
+     5.5 Describe the pin diagram with function of each pin of 8086
+     5.6 Illustrate maximum and minimum mode of 8086 microprocessor
+     5.7 Describe the register structure of 8086 microprocessor
+     5.8 Mention the general features of 8088 microprocessor
+     5.9 Distinguish between 8086 and 8088 microprocessor
+  Unit 5: 
+  Unit 8: 
+  Unit 6: Programming using assembly code of 8086 Microprocessor
+     6.1 State Instruction Set and Addressing mode
+     6.2 Describe the types of Instruction with function of 8086 microprocessor
+     6.3 Describe the types of addressing mode of 8086 microprocessor
+     6.4 Explain the instruction format of 8086 microprocessor
+     6.5 Interpret assembler, assembler pseudo instructions and assembler
+     6.6 List the assembler directives
+     6.7 State the uses of  SEGMENT, ENDS, ASSUME and  DUP directive
+     6.8 Write assembly language program using 8086 instruction set
+  Unit 4: 
+  Unit 12: 
+  Unit 7: Memory interfacing system of 8086 Microprocessor
+     7.1 Interpret Memory Interfacing
+     7.2 State the necessity of Memory Interfacing
+     7.3 Sketch the 8086 system memory interfacing diagram
+     7.4 Describe even & odd address boundaries
+     7.5 Describe the hardware organization of the memory address space of
+     7.6 Describe the memory read and write bus cycle of 8086 microprocessor
+  Unit 4: 
+  Unit 9: 
+  Unit 8: I/O interfacing system of 8086 Microprocessor
+     8.1 Interpret I/O Interfacing
+     8.2 State the necessity of I/O Interfacing
+     8.3 Mention features of some important interfacing chips of 8086
+     8.4 Describe the interfacing system of PPI with block diagram
+     8.5 Illustrate  8086 microprocessor I/O interfacing system
+  Unit 3: 
+  Unit 6: 
+  Unit 9: Interrupt interface of 8086 Microprocessor
+     9.1 Define interrupt
+     9.2 List different types of interrupts
+     9.3 Describe the common features of different types of interrupts
+     9.4 Sketch the map of interrupt vector table
+     9.5 Describe the external hardware interrupt interface of 8086
+  Unit 3: 
+  Unit 4: 
+  Unit 10: Features of advanced microprocessors
+     10.1 List the names of 80x86 processors with features and brief
+     10.2 List the names of Pentium family processors with features and brief
+     10.3 Distinguished between 80X86 family and  Pentium family
+     10.4 List the names of Multi-core processors with features and brief
+     10.5 Compare between latest multi-core processor and previous multi-
+  Unit 6: 
+  Unit 9: TOTAL
+  Unit 48: 
+  Unit 90: 
+
+====================================================
+COURSE: 28554 - Data Communication (from 5th - 85-COMPUTER SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: DATA COMMUNICATION BASICS
+     1.1 Define Communication.
+     1.2 Describe Communication Terminology.
+     1.3 Mention the basic elements of a Communication System.
+     1.4 Describe Communication System with a simple block diagram.
+     1.5 Define Data and Signal.
+     1.6 Describe different types of data signal.
+     1.7 Define Data communication.
+     1.8 Discuss importance of Data communication.
+  Unit 3: 
+  Unit 6: 
+  Unit 2: DATA TRANSMISSION CONCEPTS
+     2.1 Discuss Components of Data Communication.
+     2.2 Describe the Typical Data Communication System.
+     2.3 State Frequency, Wavelength, Spectrum, Bandwidth,
+     2.4 Differentiate between bandwidth and data rate.
+     2.5 Mention the different Communication Models.
+     2.6 Describe Unicast, Multicast and Broadcast communication
+     2.7 Describe Simplex, Half-duplex and Full duplex modes of
+     2.8 Describe Synchronous and Asynchronous communication
+  Unit 4: 
+  Unit 8: 
+  Unit 3: TRANSMISSION MEDIA AND CONNECTORS
+     3.1 Define Transmission Media.
+     3.2 Mention the categories of transmission media.
+     3.3 Describe the construction of STP, UTP, Co-axial and Fiber-
+     3.4 State the characteristics of STP, UTP, Co-axial and Fiber-optic
+     3.5 State the advantages and disadvantages of STP, UTP, Co-axial
+     3.6 Define Connectors.
+     3.7 Discuss connectors for different types of media.
+  Unit 3: 
+  Unit 6: 
+  Unit 4: ANALOG COMMUNICATION SYSTEMS
+     4.1 Define Modulation and Demodulation.
+     4.2 State the necessity of Modulation.
+     4.3 Mention the types of Modulation.
+     4.4 Describe AM, FM and PM with necessary waveform.
+     4.5 State the advantages and disadvantages of ASK, FSK, PSK and
+  Unit 3: 
+  Unit 6: 
+  Unit 5: DIGITAL COMMUNICATION SYSTEMS
+     5.1 Define Digital Modulation.
+     5.2 Describe PCM, DM and DPCM.
+     5.3 Define Line Coding and Block Coding.
+     5.4 Mention the Line Coding Schemes.
+     5.5 Differentiate between Analog and Digital Modulation.
+  Unit 3: 
+  Unit 6: 
+  Unit 6: MULTIPLEXING TECHNIQUES
+     6.1 Define Multiplexing and De-multiplexing.
+     6.2 Mention the categories of multiplexing.
+     6.3 Define FDM, WDM, TDM and CDM.
+     6.4 Describe Frequency Division Multiplexing and De-multiplexing
+     6.5 Describe Wave Division Multiplexing and De-multiplexing
+     6.6 Describe Time Division Multiplexing and De-multiplexing
+     6.7 Compare between baseband and broadband transmission.
+  Unit 5: 
+  Unit 9: 
+  Unit 7: DATA FLOW CONTROL
+     7.1 Define data flow control.
+     7.2 Discuss the necessity of flow control.
+     7.3 Describe the method of flow control.
+     7.4 Discuss Sliding Window protocol.
+     7.5 Discuss Stop and Wait protocol.
+  Unit 3: 
+  Unit 6: 
+  Unit 8: ERROR DETECTION AND CORRECTION
+     8.1 Define Error and Error Detection in data communication.
+     8.2 Describe types of errors in data communication.
+     8.3 Describe different types of error detection techniques.
+     8.4 Define Error Correction.
+     8.5 Describe different types of error correction techniques.
+  Unit 4: 
+  Unit 8: 
+  Unit 9: NETWORK MODEL AND STANDARDS
+     9.1 Define OSI and TCP/IP Model.
+     9.2 Describe the OSI Model.
+     9.3 List the network devices of OSI model layer.
+     9.4 Describe the TCP/IP Model.
+     9.5 Describe the interconnection model of OSI and TCP/IP model.
+  Unit 3: 
+  Unit 7: 
+  Unit 10: DATA LINK LAYER AND SWITCHING TECHNIQUE
+     10.1 Define Data Link Layer.
+     10.2 Describe the function of data link layer.
+     10.3 Discuss Data Link Control protocols.
+     10.4 Define Switching.
+     10.5 Mention the types of Switching.
+     10.6 Describe Circuit switching, Message switching and Packet
+     10.7 Describe advantages and disadvantages of Circuit switching,
+  Unit 6: 
+  Unit 9: 
+  Unit 11: COMMUNICATION DEVICES AND PROTOCOLS
+     11.1 Define Communication Devices.
+     11.2 Describe different types of Communication Devices.
+     11.3 Define Protocols and Ports.
+     11.4 List different types of Communication Protocols and Ports.
+     11.5 Describe TCP, UDP, SNMP, SMTP, FTP, SFTP, HTTP, MQTT,
+     11.6 Define IoT and IoT Devices with example.
+  Unit 4: 
+  Unit 7: 
+  Unit 12: NETWORK ADDRESSING
+     12.1 Define Network Addressing and IP Addressing.
+     12.2 Define MAC Address.
+     12.3 Define IPv4 and IPv6.
+     12.4 Describe the IPv4 address format of Class A, B, C, D and E
+     12.5 Discuss Public and Private IP address.
+     12.6 Describe Subnet and Subnet Mask.
+     12.7 Describe the Subnetting for IPv4.
+  Unit 4: 
+  Unit 6: 
+  Unit 13: WIRELESS COMMUNICATION
+     13.1 Define Wireless Communication.
+     13.2 Mention the types of Wireless Communication.
+     13.3 Discuss the necessity of wireless communication.
+     13.4 Describe Radio, Microwave, Satellite, Infrared and
+     13.5 Define WiFi and LiFi.
+     13.6 Define CDMA and GSM.
+     13.7 Describe 2G, 3G, 4G and 5G.
+  Unit 3: 
+  Unit 6: TOTAL
+  Unit 48: 
+  Unit 90: 
+
+====================================================
+COURSE: 28555 - Operating System (from 5th - 85-COMPUTER SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Systems, Client-Server Computing, Peer to Peer Computing,
+     1.1 Define Operating System.
+     1.2 Describe the functions of operating system.
+     1.3 Describe Kernel concept.
+     1.4 List the different types of computing environments.
+     1.5 Define Traditional Computing, Mobile Computing, Distributed
+     1.6 Describe the evolution of operating system.
+     1.7 Explain the role of operating system as an extended machine
+     1.8 Define Open Source Operating System, Multiuser, Multitasking
+  Unit 2: 
+  Unit 7: 
+  Unit 2: Operating system structure
+     2.1 Define Operating System Services.
+     2.2 Describe User and Operating System Interface.
+     2.3 Define System Calls and System Programs.
+     2.4 Describe Types of System Calls.
+     2.5 Describe Design and Implementation process of Operating
+     2.6 State Simple Structure, Layered Approach, Microkernels,
+  Unit 3: 
+  Unit 6: 
+  Unit 3: Batch processing system
+     3.1 Define batch processing system.
+     3.2 Describe the method of batch processing system.
+     3.3 State the disadvantages of batch processing.
+     3.4 Describe the uses of job control language for operating system.
+     3.5 Describe the process of spooling.
+  Unit 3: 
+  Unit 5: 
+  Unit 4: Process management and Threads
+     4.1 Define Process, Threads and Process Scheduling.
+     4.2 Describe the process state with diagram.
+     4.3 Differentiate between process and program.
+     4.4 Describe the importance of process controls.
+     4.5 Explain the process Scheduling and scheduling queues.
+     4.6 Describe Communication in Client Server Systems.
+  Unit 4: 
+  Unit 6: 
+  Unit 5: Process scheduling
+     5.1 Define CPU Scheduling.
+     5.2 Describe the Scheduling criteria.
+     5.3 Mention the different scheduling algorithm.
+  Unit 5: 
+     5.4 Describe FCFS – First come first serve, SJF – Shortest job first,
+     5.5 Define Multiple-Processor Scheduling.
+     5.6 State CPU and I/O burst cycle, CPU Scheduler and Dispatcher.
+  Unit 7: RR- Round Robin, and Priority scheduling algorithm.
+  Unit 6: Deadlocks
+     6.1 Define Deadlock, Preemptable and Non-Preemptable resources.
+     6.2 Mention the Necessary conditions of Deadlocks.
+     6.3 State the methods for Handling Deadlocks.
+     6.4 Describe the Deadlock Prevention.
+     6.5 Explain the Deadlock avoidance with algorithm.
+     6.6 Describe the Deadlock detection algorithm.
+     6.7 Explain the recovery process of Deadlock.
+  Unit 3: 
+  Unit 6: 
+  Unit 7: Memory Management Technique
+     7.1 Mention the function of memory management.
+     7.2 Describe the Single / Multiple partition schemes.
+     7.3 Explain fixed memory partition with separate / single input
+     7.4 Explain the external and internal fragmentation.
+     7.5 Define re-locatable and dynamically re-locatable partition
+     7.6 Describe Swapping.
+     7.7 State the segmented allocation and segmented page.
+     7.8 Define virtual memory and demand paging.
+  Unit 4: 
+  Unit 6: 
+  Unit 8: Storage and I/O System
+     8.1 State Mass Storage System.
+     8.2 Describe Disk Structure, Attachment and Scheduling.
+     8.3 Define RAID Structure.
+     8.4 State the Characteristics and principle of I/O hardware.
+     8.5 Describe the role of operating system in I/O operation.
+     8.6 State the I/O aspects of operating System.
+     8.7 Describe the goals of I/O software.
+     8.8 Describe the function of each layer of I/O system.
+  Unit 3: 
+  Unit 6: 
+  Unit 9: File system
+     9.1 Mention the concept and attributes of file.
+     9.2 Describe the basic file operation.
+     9.3 State file pointer, file open count and disk location of file.
+     9.4 Mention the file types with common features.
+     9.5 Define file system.
+     9.6 Describe the organization of file system.
+     9.7 State the features of general file system.
+     9.8 Describe the free space management of disk space.
+     9.9 Describe the allocation methods of disk space.
+  Unit 3: 
+  Unit 6: 
+  Unit 10: DOS, Windows, UNIX and Linux Operating system
+     10.4 State the advantages and disadvantages of Linux Operating
+     10.5 Comparison among DOS, Windows and Linux Operating
+     10.6 State the Future trends of operating system.
+  Unit 2: 
+  Unit 5: Windows Operating System.
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 25851 - Principles of Marketing (from 6th - 85-COMPUTER SCIENCE & TECHNOLOGY TECHNOLOGY.pdf)
+====================================================
+  Unit 1: INTRODUCTION TO MARKETING
+     1.1 Define marketing
+     1.2 Explain functions of marketing
+     1.3 Differentiate between sales and marketing
+     1.4 Describe marketing prospects on the context of 4th
+     1.5 Discuss marketing importance on apparel industry.
+     1.1 Explain the purpose of an organization.
+     1.2 Define management organization.
+     1.3 Describe various types and features of organization structures.
+     1.4 Explain authority, responsibility, duties and delegation of
+     1.5 Define span of supervision.
+  Unit 4: 
+  Unit 6: 
+  Unit 2: MARKETING THEORIES AND STRATEGIES
+  Unit 4: 
+  Unit 7: 
+  Unit 3: MARKET ENVIORNMENT AND INTERNATIONAL MARKTING
+     3.1 Describe market environment
+     3.2 Discuss micro environment and macro environment.
+     3.3 List the influential factors of market environment related
+     3.4 Define international marketing
+     3.5 Describe international market entry process
+     3.6 Classify international marketing
+  Unit 3: 
+  Unit 7: 
+  Unit 4: PRODUCT AND SERVICE MARKETING
+     4.5 Classify service marketing
+     4.6 Distinguish between goods and service
+  Unit 3: 
+     3.1 Define production management .
+     3.2 State functions of production management.
+     3.3 Describe “5p”.
+     3.4 Mention applications of “5p”.
+     3.5 Define cost control-methods.
+     3.6 Define inventory & inventory control.
+     3.7 Describe the fundamentals of maintenance management.
+     3.8 Explain the importance of quality system.
+     3.9 Explain the components of quality system
+  Unit 7: 
+  Unit 5: DISTRIBUTION STRATEGIES
+  Unit 2: 
+  Unit 4: 
+  Unit 6: SEGMENTATION, TARGETING AND POSITIONING METHODS
+     6.2 Explain bases for consumer market segmentation
+     6.3 Define market targeting
+     6.4 Describe strategies of targeting
+     6.5 Define positioning, repositioning and de-positioning
+  Unit 4: 
+  Unit 7: 
+  Unit 7: ESSENTIALS OF PROMOTION AND PRICING
+     7.1 Define promotion
+     7.2 State fundaments of promotion
+     7.3 Relate managing customer relationships
+     7.4 Define price
+     7.5 Outline new product pricing strategies
+     7.6 Compare price adjustments with competitors
+  Unit 4: 
+  Unit 7: 
+  Unit 8: FUNDAMENTALS OF BRANDING
+     8.1 Define branding
+     8.2 List branding elements
+     8.3 State necessity of branding
+     8.4 Mention the steps of brand making process
+  Unit 2: 
+  Unit 4: 
+  Unit 9: CONSUMER BEHAVIOUR
+     9.1 Define consumer behavior
+     9.2 Outline stages of the buying process
+     9.3 Illustrate importance of studying consumer behavior
+     9.4 Mention the scope of consumer behavior area
+     9.1 List different types of leadership styles.
+     9.2 Describe the leadership style adapted to the work assignment
+     9.3 State SMART goal.
+     9.4 Set SMART goals to support work assignment.
+     9.5 Identify ways to reduce resistance to change during work
+  Unit 2: 
+  Unit 4: 
+  Unit 10: ONLINE AND ETHICAL MARKETING
+     10.1 Define marketing ethics
+     10.2 Mention policies of marketing ethics
+     10.3 State the practice of ethics on virtual market.
+     10.4 Describe significance of the ethical practices on social
+     10.4 Discuss Corporate Social Responsibility (CSR)
+     10.5 Discuss the consequence of green marketing
+     10.1 Mention the steps of problem solving.
+     10.2 Explain tools used to analyze and solve problem addressing
+     10.3 Define decision making.
+     10.4 Discuss different types of decision-making process.
+     10.5 Describe the steps in decision making.
+  Unit 4: 
+  Unit 7: Total
+  Unit 32: 
+  Unit 60: Recommended Books:
+  Unit 2: 
+  Unit 0: 
+  Unit 2: Rationale
+  Unit 2: 
+     2.1 Explain the functions of management.
+     2.2 Relate administration, organization and management.
+     2.3 Describe different types of management and in which context
+     2.4 Define the specificities of industrial management.
+  Unit 4: FUNDAMENTALS OF MANAGEMENT
+  Unit 2: 
+  Unit 4: PRODUCTION MANAGEMENT
+  Unit 5: 
+  Unit 8: 
+     8.1 Define leadership.
+     8.2 Identify personality traits impacting leadership style.
+     8.3 Discuss the types of leadership.
+     8.4 Define motivation and motivational cycle.
+     8.5 State the importance of motivation.
+     8.6 List motivation drivers based on Maslow, Herzberg adapted to
+     8.7 State concepts of Theory-X, Theory-Y and Theory-Z
+  Unit 4: PRODUCTIVITY IMPROVEMENT
+     4.1 Define Productivity.
+     4.2 List factors affecting industrial productivity.
+     4.3 Describe productivity improvement techniques.
+     4.4 Describe the lean manufacturing approach.
+     4.5 Explain the concept of Just in Time.
+  Unit 3: 
+  Unit 6: 
+  Unit 5: PLANNING
+     5.1 Discuss importance of planning.
+     5.2 Explain the steps in planning.
+     5.3 Explain the factors affecting on planning.
+     5.4 State different types of production planning and control.
+     5.5 Describe the way to manage personal time.
+  Unit 4: 
+  Unit 7: 
+     7.1 Describe the main functions in human resources management
+     7.2 Describe the main functions in human resources development
+     7.3 Explain the role of manager in the recruitment process.
+     7.4 Explain the role of manager in the training process.
+     7.5 Explain the role of manager in the performance management
+     7.6 Mention the components of compensation and benefits
+  Unit 6: SUPPLY CHAIN MANAGEMENT
+     6.1 Define supply chain management.
+     6.2 Explain the components of supply chain management.
+     6.3 Explain production integration into supply chain management.
+  Unit 3: 
+  Unit 4: HUMAN RESOURCES MANAGEMENT AND DEVELOPMENT (HRM-
+  Unit 3: 
+  Unit 6: LEADING A TEAM
+  Unit 3: 
+  Unit 6: WORK ASSIGNMENT
+  Unit 4: 
+  Unit 8: PROBLEM SOLVING AND DECISION MAKING
+  Unit 3: 
+  Unit 7: Total
+  Unit 32: 
+  Unit 60: Necessary Resources (Tools, equipment and Machinery):
+  Unit 01: Case studies, examples, exercises related documents
+  Unit 02: Project templates
+
+====================================================
+COURSE: 28561 - Database Management System (from 6th - 85-COMPUTER SCIENCE & TECHNOLOGY TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Basic concept of database system
+     1.1 Define database and database management system.
+     1.2 Explain the purposes of database management system.
+     1.3 Differentiate between conventional file system and
+     1.4 Mention the advantages and disadvantages of database
+     1.5 State Relational data base management system-RDBMS.
+     1.6 Define data abstraction, instances and schemas.
+     1.7 Describe schema.
+  Unit 2: 
+  Unit 6: 
+  Unit 2: Database languages, users, manager and administrator
+     2.1 Describe the database query languages.
+     2.2 Explain the basic operation of DDL, DML, DCL and TCL.
+     2.3 Describe the different types of database system users.
+     2.4 State various tasks performed by a database manager.
+     2.5 Describe the responsibilities of a database administrator.
+     2.6 Explain the functional components of a database system.
+  Unit 2: 
+  Unit 6: 
+  Unit 3: Data models
+     3.1 Define entity, entity set and data model.
+     3.2 Explain E-R diagram symbols.
+     3.3 Describe the E-R diagram for different mapping constrains.
+     3.4 List different types of attributes used in E-R diagrams.
+     3.5 Explain conversion technic of E-R diagram to table.
+     3.6 Describe the different types of data models with examples.
+     3.7 Illustrate mapping, cardinalities and existences constraints
+     3.8 List different types of keys in RDBMS.
+     3.9 Define Primary key, Foreign key, Super key and Candidate key.
+     3.10 Distinguish between strong and weak entity sets.
+  Unit 4: 
+  Unit 10: 
+  Unit 4: Relational Database Query Language
+     4.1 Define query language.
+     4.2 Differentiate among SQL, QBE and datalog.
+     4.3 List fundamental operations of relational algebra.
+     4.4 Describe select, project, union, set difference, Cartesian
+  Unit 3: 
+  Unit 6: 
+  Unit 5: SQL and PL/SQL
+     5.1 Define SQL and PL/SQL.
+     5.2 Mention several parts of SQL and PL/SQL.
+     5.3 List different clauses of SQL statement.
+     5.4 Explain SELECT, FROM, WHERE, ORDER BY, GROUP BY and
+     5.5 Describe the usage of SQL set operators.
+     5.6 State the usage of SQL Scalar functions.
+     5.7 Describe the usage of SQL aggregate functions.
+     5.8 Explain the usage of joining.
+     5.9 Interpret the techniques to add, change and remove data
+  Unit 4: 
+  Unit 8: 
+  Unit 6: Integrity and security
+     6.1 Define integrity constraints.
+     6.2 Describe the referential integrity in SQL.
+     6.3 State the assertions in RDBMS.
+     6.4 Define the triggers in RDBMS.
+     6.5 State the necessity of triggers in RDBMS.
+     6.6 Define the security in RDBMS.
+     6.7 Define encryption and authentication in database.
+     6.8 Mention various encryption techniques.
+  Unit 4: 
+  Unit 6: 
+  Unit 7: Relational database design
+     7.1 Define normalization.
+     7.2 Explain the necessity for normalization.
+     7.3 Describe redundancy in RDBMS.
+     7.4 Explain the three stages/rules of normalization in a
+     7.5 State the overall database design.
+  Unit 3: 
+  Unit 4: 
+  Unit 8: Data Storage Media
+     8.1 List physical storage media.
+     8.2 Describe the storage device hierarchy used for database storage.
+     8.3 Define RAID.
+     8.4 Describe the various levels of RAID.
+     8.5 Explain the considerations for choosing RAID levels.
+  Unit 3: 
+  Unit 4: 
+  Unit 9: Transactions and concurrency controls
+     9.1 Define transaction and concurrent execution in DBMS.
+     9.2 List the properties of a transaction.
+     9.3 Explain the transaction state with diagram.
+     9.4 Define concurrency.
+     9.5 Discuss the reasons for allowing concurrency.
+     9.6 Define locking.
+     9.7 Explain various locking techniques.
+  Unit 3: 
+  Unit 4: 
+  Unit 10: Database System Architecture.
+     10.1 Define centralized, parallel and distributed database systems.
+     10.2 Interpret homogeneous and heterogeneous databases.
+     10.3 Explain the structure of centralized and client server,
+     10.4 Describe the advantages and disadvantages of server,
+  Unit 4: 
+  Unit 6: TOTAL
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28562 - Computer Networking (from 6th - 85-COMPUTER SCIENCE & TECHNOLOGY TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Computer network
+     1.1 Define Computer Network.
+     1.3 Mention elements of computer network.
+     1.4 Describe the advantages of Computer network.
+     1.5 State the application of computer network.
+     1.6 Describe client / server and peer-to-peer network.
+     1.7 State LAN, MANs and WANs.
+     1.7 Describe the general features of LAN, MANs and WANs.
+  Unit 2: 
+  Unit 4: 
+  Unit 2: Network topologies
+     2.1 Define topology.
+     2.2 Difference between physical and logical topology.
+     2.3 Define point-to-point and multi point connections.
+     2.4 List different types of topologies.
+     2.4 Describe the physical connection of bus, ring, star and
+     2.5 Mention the advantages and disadvantages of bus, ring,
+     2.6 Describe the factors to select a particular topology.
+     2.7 Describe the logical topologies of a token ring network.
+  Unit 3: 
+  Unit 8: 
+  Unit 3: OSI model
+     3.1 Define communication standards.
+     3.2 Define OSI Model & DoD model.
+     3.3 Differentiate between DoD model and the OSI
+     3.4 List the global forum and regulatory authority of
+     3.5 State the function of IEEE in the communication and
+     3.6 State International Standard organization-ISO.
+     3.7 Describe the necessity to develop OSI Model.
+     3.7 Describe the functions of each layer of the OSI
+  Unit 3: 
+  Unit 8: 
+  Unit 4: Communication and network protocols
+     4.1 Define network protocol.
+     4.2 Describe the main elements of protocol.
+     4.3 Describe the characteristics of different types of protocol.
+     4.4 Describe the functions of protocol.
+     4.5 List different types of network protocols.
+     4.6 State TCP/IP.
+     4.7 State the advantages and disadvantages of OSI and
+     4.8 Describe the functions of TCP/IP.
+  Unit 4: 
+  Unit 8: 
+  Unit 5: Physical layer and Data Link layer of the OSI Reference
+     5.1 Draw the position diagram of Physical layer in the
+     5.2 Describe the functions and services of Physical layer.
+     5.3 Draw the position diagram of Data link layer in the
+     5.4 Describe the duties and responsibilities of Data link layer.
+     5.5 State the functions of LLC and MAC sub layer.
+     5.6 Describe the function of network connectivity devices
+  Unit 3: 
+  Unit 4: 
+  Unit 6: Network layer and Transport layer of the OSI reference
+     6.1 Draw the position diagram of Network layer and Transport
+     6.2 Describe the functions of Network layer and Transport
+     6.3 Describe Transmission control protocol- TCP and user
+     6.4 Describe IP, RIP, OSPF, and EIGRP.
+     6.5 Describe the responsibilities of Network layer and
+     6.6 Describe the function of Router and Switch.
+  Unit 3: 
+  Unit 8: 
+  Unit 7: Presentation layer, Session Layer and Application layer of
+     7.1 Draw the position diagram of Presentation layer, Session
+     7.2 Describe presentation layer protocol.
+     7.3 Describe Session layer protocol.
+     7.4 Describe Application layer protocol
+     7.5 State Telnet, SMTP, NFS, and FTP.
+     7.6 Describe the functions and services of Presentation
+  Unit 3: 
+  Unit 4: 
+  Unit 8: Hubs, Repeaters, Bridges, Switches and Routers
+     8.1 List the different network device.
+  Unit 4: 
+  Unit 8: Switches and Routers.
+     8.2 Mention the layer of different network device.
+     8.3 Describe the functions of Hubs, Repeaters, Bridges
+     8.4 Mention the types of Hubs/ Switches.
+     8.5 Describe the important features of passive, active and
+     8.6 Describe the important features of Repeaters, Bridges,
+     8.7 Differentiate among Bridges, Repeaters, Switches and
+  Unit 9: Sub-netting, VLSMs, and Summarization
+     9.5 State the procedure to implement VLSM Network
+  Unit 4: 
+  Unit 4: 
+  Unit 10: Operation and features of Client Server Network.
+     10.1 Define Client Server Network.
+     10.2 Describe role of Client Server Network.
+     10.3 Describe DNS Server, Web Server, Mail Server, Proxy
+     10.4 State the Advantages & Disadvantages of Client Server
+  Unit 3: 
+  Unit 4: TOTAL
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28563 - Sensor & IoT System (from 6th - 85-COMPUTER SCIENCE & TECHNOLOGY TECHNOLOGY.pdf)
+====================================================
+  Unit 1: INTRODUCTION to IoT & IoT ARCHITECTURE
+     1.1 Define IoT.
+     1.2 State the Application of IoT.
+     1.3 State the Layers of the IoT architecture.
+     1.4 Explain components and technologies involved in Sensor and IoT.
+     1.5 Describe Edge computing and cloud computing in IoT
+     1.6 List different Communication protocols in IoT.
+  Unit 3: 
+  Unit 6: 
+  Unit 2: . IoT DEVICES AND SENSORS
+     2.1 Interpret different type of IoT devices & sensors.
+     2.2 State the Sensor technologies for data collection methods.
+     2.3 Describe the role of actuators in IoT systems.
+     2.4 List Innovative IoT devices.
+     2.5 Mention the applications of various types of sensor.
+  Unit 3: 
+  Unit 6: 
+  Unit 3: RASPBERRY PI AND ARDUINO
+     3.1 Interpret Arduino and Rasbrry  pi .
+     3.2 State the Architecture of Arduino and Rasbrry  pi .
+     3.3 Describe general purpose input/output(GPIO) pins of Raspberry pi
+     3.4 Explain Digital and Analog I/O interfacing with Arduino .
+     3.5 State Digital and Analog I/O interfacing with Rasbrry  pi
+     3.6 Describe Sensor interfacing with raspberry pi and arduino
+     3.7 State Serial communication raspberry pi and arduino
+     3.8 Explain  Arduino programming language
+     3.9 Interpret Rasbrry  pi programming language
+  Unit 4: 
+  Unit 6: 
+  Unit 4: IIoT IN MANUFACTURING
+     4.1 Define IIoT.
+     4.2 State the application of IIoT.
+     4.3 Explain Smart factories and Industry 4.0.
+     4.4 Describe the role of IoT to optimize the production process.
+     4.5 Distinguish between consumer IoT and industrial IoT.
+     4.6 State the Challenges and opportunity of IIoT.
+     4.7 Describe Regulatory landscape for IoT and IIoT.
+  Unit 3: 
+  Unit 6: 
+  Unit 5: IoT IN AGRICULTURE
+     5.1 Interpret Precision farming and smart agriculture.
+     5.2 Describe applications of IoT for crop management.
+     5.3 Explain Automation in agricultural processes.
+     5.4 Explain Challenges and opportunities to implement IoT in
+     5.5 Mention the best practices of IoT in in agriculture industry
+  Unit 3: 
+  Unit 6: 
+  Unit 6: CONNECTIVITY IN IoT
+     6.1 List different Communication technologies In IoT.
+     6.2 Explain 5G and LPWAN.
+     6.3 Interpret Wireless and wired connectivity options.
+     6.4 State IoT protocols for efficient data transfer.
+     6.5 Describe Scalability and reliability considerations for connectivity in
+  Unit 3: 
+  Unit 6: 
+  Unit 7: SECURITY IN IoT
+     7.1 Describe the Threats and vulnerabilities in IoT systems.
+     7.2 State Encryption and authentication in IoT.
+     7.3 Discuss Best practices and Security considerations in IoT
+     7.4 Explain Privacy concerns in the age of connected devices.
+     7.5 Explain Privacy and data protection regulations for IoT and IIoT.
+     7.6 Describe the necessity of ethics to implement the IoT in Industry.
+     7.7 State the Ethical considerations in the development and
+  Unit 4: 
+  Unit 6: architecture.
+  Unit 8: DATA ANALYTICS IN IoT
+     8.1 Define Data Analytics.
+     8.2 State the Importance of data analytics in IoT.
+     8.3 Explain Big data and machine learning for IoT applications.
+     8.4 State the role of IoT for Predictive maintenance and anomaly
+     8.5 Mention the process to Predictive maintenance and anomaly
+  Unit 3: 
+  Unit 6: 
+  Unit 9: IoT STANDARDS AND INTEROPERABILITY
+     9.1 State IoT standards and protocols.
+     9.2 Describe Importance of interoperability in IoT ecosystems.
+     9.3 State Initiatives and organizations promoting IoT
+     9.4 List successful interoperable IoT solutions.
+  Unit 3: 
+  Unit 5: 
+  Unit 10: FUTURE TRENDS IN IOT AND IIoT
+     10.1 Describe the evolution of IoT and IIoT.
+     10.2 State the Emerging technologies shaping the future of IoT.
+     10.3 Define AI, Block chain, IoE, Big data analytics, Cloud computing,
+     10.4 State the Impact of AI and block chain in IoT applications.
+     10.5 Describe the Challenges and opportunities to implement the AI.
+     10.6 State the Predictions for the evolution of IoT and IIoT in the
+     10.7 List the promising IoT practices industry in Bangladesh.
+  Unit 3: 
+  Unit 6: TOTAL
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28564 - MICROCONTROLLER BASED SYSTEM (from 6th - 85-COMPUTER SCIENCE & TECHNOLOGY TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Introduction to Microcontroller
+     1.1 Define Microcontroller.
+     1.2 State the importance of Microcontroller.
+     1.3 Mention the types of Microcontrollers.
+     1.4 Define Embedded system.
+     1.5 Sketch the basic building blocks of a microcontroller.
+     1.6 Compare between Microprocessor and Microcontroller.
+     1.7 Distinguish between computer and embedded system.
+     1.8 List the applications of microcontroller.
+     1.9 Mention the criteria to choose a microcontroller.
+     1.10 List commonly used microcontrollers’ series with targeted application.
+  Unit 2: 
+  Unit 3: 
+  Unit 2: PIC Series Microcontroller
+     2.1 Define PIC MCU.
+     2.2 State thefeatures of PIC microcontroller.
+     2.3 Mention the purposes of different family/series of PIC MCU.
+     2.4 Describe basic functional blocks of PIC mid-range MCU.
+     2.5 State the types of Reset used in MCU.
+     2.6 Define Power Up Timer -PWRT and Oscillator Start Up Timer –OST.
+     2.7 Discuss the function of different interrupt sources.
+     2.8 Describe the operation of Watchdog Timer.
+     2.9 State the function of Power down/low power Mode (Sleep and Wake up
+  Unit 2: 
+  Unit 3: 
+  Unit 3: Microcontroller Programming and Interfacing
+     3.1 Describe the development life cycle of embedded system.
+     3.2 List different types of software development tools for microcontroller
+     3.3 Discuss the uses of IDE, linker, compiler, editor and assembler.
+     3.4 Mention commonly used IDE for microcontroller programming
+     3.5 Interpret MPLAB, MPLAB X and MikroC.
+     3.6 List different types of hardware development tools.
+     3.7 State the uses of flasher, debugger and emulator.
+     3.8 Mention commonly used debugger and flashing tools.
+     3.9 State the procedure to build embedded software.
+     3.10 Write a program for accessing GPIO port.
+  Unit 3: 
+  Unit 6: 
+  Unit 4: Timer/counter Programming
+     4.1 Define Timer in microcontroller.
+     4.2 List the functions of a timer in microcontroller.
+     4.3 Discuss the mode of operation of a timer in microcontroller.
+     4.4 Write a program to create delay for certain amount of time using Timer.
+     4.5 Describe the Timer as an even counter.
+     4.6 Develop program for generating square wave and PWM.
+  Unit 3: 
+  Unit 6: 
+  Unit 5: Interrupts of Microcontroller
+     5.1 List the interrupts of the mid-range PIC MCU.
+     5.2 State the interrupt priority and vector locations.
+     5.3 State the procedure of enabling and disabling interrupts.
+     5.4 Mention the steps to execute an interrupt service routine.
+     5.5 Describe External Hardware, Timer, and Serial communication Interrupt.
+     5.6 Write a program for interrupts of Microcontroller.
+  Unit 3: 
+  Unit 5: 
+  Unit 6: Assembly Language Programming of PIC Mid-range Microcontroller
+     6.1 Describe Assembly language.
+     6.2 Define Instruction and Instruction set.
+     6.3 Classify instructions.
+     6.4 Mention the fields of assembly language instruction.
+     6.5 Describe the function of assembly language instruction.
+     6.6 State CPU Instruction & Assembler directives.
+     6.7 Describe the commonly used Assembler directives.
+     6.8 Mention steps to create and execute assembly language program.
+     6.9 Develop a program in assembly language to send data to the output
+  Unit 3: 
+  Unit 6: 
+  Unit 7: Interfacing Sensors and Actuators
+     7.1 Define sensors and actuators.
+     7.2 Differentiate between Sensors and Actuators.
+     7.3 State the types of actuators with application.
+     7.4 Describe the interfacing process of sensors and actuators in an
+     7.5 Write a program for Controlling motors and LEDs using microcontrollers.
+     7.6 Write a program to get temperature, humidity and light using MCU.
+     7.7 Develop an embedded system block diagram that uses different sensors
+  Unit 4: 
+  Unit 8: 
+  Unit 8: Communication Protocols in Embedded Systems
+     8.1 Define Communication protocol.
+     8.2 State the uses of UART, I2C and SPI communication protocols.
+     8.3 Define wireless communication.
+     8.4 Discuss the process of Bluetooth and RF modules.
+     8.5 Mention the interfacing process of multiple microcontrollers.
+     8.6 Write a program for serial communication.
+     8.7 Develop an embedded system block diagram that uses different
+  Unit 3: 
+  Unit 6: 
+  Unit 9: Arduino
+     9.1 State Arduino, Arduino board and Arduino shield.
+     9.2 State the features of different Arduino boards.
+     9.3 State different Arduino Shields.
+     9.4 Describe the uses of Arduino Board and Sensor.
+     9.5 Explain the basic block diagram of Arduino board.
+     9.6 Describe the Interfacing with Arduino components.
+     9.7 Develop program for any Arduino device with basic operation.
+     9.8 Write a program for temperature sensor data or light sensor data using
+     9.9 Develop a program to read analog signal from a sensor.
+     9.10 Develop a program to communicate with computer system with using
+  Unit 2: 
+  Unit 3: 
+  Unit 10: IoT device, Raspberry Pi and other development kit
+     10.1 Mention the uses of ARM architecture.
+     10.2 Discuss  the basic building blocks of an IoT devices
+     10.3 State the uses of GSM module like device to connect the internet.
+     10.4 State the uses of Wi-Fi module to connect the internet.
+     10.5 Develop an embedded system block diagram for internet connectivity
+     10.6 State the features and uses of Raspberry Pi board.
+     10.7 List commonly used mini development kit based on MCU.
+     10.8 Outline commonly used robotics development board.
+  Unit 3: 
+  Unit 6: TOTAL
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28565 - SURVEILLANCE SECURITY SYSTEM (from 6th - 85-COMPUTER SCIENCE & TECHNOLOGY TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Surveillance security System
+     1.1 Define surveillance system.
+     1.2 State different types of surveillance.
+     1.3 Describe problems & constrains of surveillance.
+     1.4 State the uses of access control in Surveillance systems.
+     1.1 Collect requirements from Client.
+     1.2 Select products as per requirement.
+     1.3 Prepare Budget as per requirements.
+     1.4 Prepare design and diagram
+     1.5 Prepare a quotation as per requirements.
+     1.6 Approve quotation from client.
+     1.7 Maintain the record of performed task.
+  Unit 2: 
+  Unit 5: 
+  Unit 2: Video surveillance
+     2.1 Define video surveillance.
+     2.2 Illustrate the Construction procedure of a video surveillance system.
+     2.3 State the function of video surveillance.
+     2.4 Explain the essential components of the CCTV camera system
+     2.5 Explain construction procedure of various nodes and blocks in CCTV
+     2.6 Explain Security policy model.
+  Unit 4: 
+  Unit 5: 
+  Unit 3: Cameras, Lens and sensors
+     3.1 Define pixels, camera, Lens and Sensor.
+     3.2 Describe the function of different types of cameras.
+     3.3 List different types of lenses
+     3.4 State Fixed lenses, Zoom lenses, Varifocal lenses, Monofocal
+     3.5 State various types of CCTV drawing Symbols.
+     3.1 Follow Occupational safety and health (OSH) practices.
+     3.2 Identify the power source.
+     3.3 Perform wiring as per required.
+     3.4 Install power equipment.
+     3.5 Connect cable according to diagram.
+     3.6 Connect different network equipment.
+     3.7 Maintain the record of performed task.
+  Unit 2: 
+  Unit 5: 
+  Unit 4: DVR, NVR interface and Remote access
+     4.1 Define DVR and NVR.
+     4.2 Describe the function of various blocks of DVR and NVR.
+     4.3 State the uses of physical storage and cloud storage.
+     4.4 Describe the recording format of a DVR and NVR.
+     4.5 Define remote access system.
+     4.6 Mention the Advantage and disadvantage of remote access
+  Unit 4: 
+  Unit 8: 
+     8.1 Follow Occupational safety and health (OSH) practices.
+     8.2 Connect external storage device to the DVR/NVR.
+     8.3 Use Backup Option from the DVR/NVR as per manual.
+     8.4 Select particular camera for backup the footage.
+     8.5 Set time and date to find the footage for backup.
+     8.6 select video format for backup such as dav, mp4, PAL, NTSC.
+     8.7 Start or Click Backup option.
+     8.8 Maintain the record of performed task.
+  Unit 5: Surveillance system installation
+     5.1 List the necessary equipment of Surveillance system.
+     5.2 State the various type of cables uses in surveillance system
+     5.3 Describe the function and operation of Biometric device,
+     5.4 Illustrate the installation process of Biometric system.
+     5.5 Describe the maintenance procedure of Surveillance system.
+  Unit 4: 
+     4.1 Follow Occupational safety and health (OSH) practices.
+     4.2 Make survey and identify the location of the camera to be
+     4.3 Select the suitable camera depending on the coverage area
+     4.4 Connect power equipment of different CCTV Camera.
+     4.5 Select cable and connector (coaxial/twisted pair cable and
+     4.6 Connect all the cables and cameras as per procedure.
+     4.7 Ensure all cable and connectors are connected properly.
+     4.8 After complete all procedure connect AC/DC Power Adapter
+     4.9 Maintain the record of performed task.
+  Unit 7: TOTAL
+     7.1 Follow Occupational safety and health (OSH) practices.
+     7.2 Perform control and configure/settings of camera such
+     7.3 Use stable mounting structure and ensure that is not
+     7.4 Ensure that cameras are protected from light while installing
+     7.5 Maintain the record of performed task.
+  Unit 16: 
+  Unit 30: Detailed Syllabus (Practical)
+  Unit 2: 
+     2.1 Follow Occupational safety and health (OSH) practices.
+     2.2 Collect the necessary equipment’s and select BNC or Video
+     2.3 Connect and set up equipment’s according to diagram.
+     2.4 Test the equipment’s.
+     2.5 Identify and Isolate the faulty device.
+     2.6 Maintain the record of performed task.
+  Unit 5: Testing equipment’s and set up.
+  Unit 1: 
+  Unit 5: Perform Wiring of Power and Network Cable.
+  Unit 2: 
+  Unit 5: Install the CCTV camera.
+  Unit 2: 
+  Unit 5: Install the IP (and PTZ) camera
+     5.1 Follow Occupational safety and health (OSH) practices.
+     5.2 Follow installation procedures as per manuals.
+     5.3 Mount the IP cameras such as pan, tilt, zoom.
+     5.4 Connect power equipment/ Use POE switch of IP Cameras.
+     5.5 Assign IP address.
+     5.6 Maintain the record of performed task.
+  Unit 1: 
+  Unit 5: Install and configure DVR/NVR Machine.
+  Unit 6: 
+     6.1 Follow Occupational safety and health (OSH) practices.
+     6.2 Set up DVR/NVR as per diagram.
+     6.3 Install Hard disk in DVR/NVR.
+     6.4 Ensure that all cables and connectors are connect Properly.
+     6.5 Assign IP Address to connect DVR/NVR.
+     6.6 Install the appropriate software for remote monitoring.
+     6.7 Configure the DVR/NVR as per procedure.
+     6.8 Maintain the record of performed task.
+  Unit 1: 
+  Unit 5: Configure the camera
+  Unit 2: 
+  Unit 5: Backup data from DVR/NVR
+  Unit 1: 
+  Unit 5: Install and Configure Biometric and software
+  Unit 9: 
+     9.1 Follow Occupational safety and health (OSH) practices.
+     9.2 Install and configure Biometric device.
+     9.3 Install and connect Biometric Device Software.
+     9.4 Enroll employes data in Biometric device
+     9.5 Configure attendance time table for employee.
+     9.6 link employes data from devices to software.
+     9.7 Generate test Report and get output by software.
+     9.8 Maintain the record of performed task.
+  Unit 2: 
+  Unit 5: Wireless series camera setup and install
+  Unit 10: operational manual
+     10.1 Follow Occupational safety and health (OSH) practices.
+     10.2 Select a wireless series camera from a specific company.
+     10.3 Read and get knowledge the camera mechanism from
+     10.4 Select and install SD Card for appropriate place of camera
+     10.5 Mount the Device with appropriate place and position.
+     10.6 Connect the camera with a local Wi-Fi follow the instruction
+     10.7 Download the necessary software for remotely access.
+     10.8 Maintain the record of performed task.
+  Unit 2: 
+  Unit 5: Total
+  Unit 16: 
+  Unit 50: NECESSARY RESOURCES (TOOLS, EQUIPMENT AND MACHINERY):
+  Unit 1: CCTV Camera
+  Unit 2: IP Camera
+  Unit 3: Digital Video Recorder (DVR)
+  Unit 4: Network Video Recorder (NVR)
+  Unit 5: BNC/Video Balun
+  Unit 6: CAT 5/CAT 6 and Co-axial Cable
+  Unit 7: Electric wire
+  Unit 8: AC/DC Power adapter
+  Unit 9: VGA/HDMI cable
+  Unit 03: Digital CCTV
+  Unit 1: https://www.dahuasecurity.com/support/training/eLearning
+  Unit 2: https://en.wikipedia.org/wiki/Surveillance
+  Unit 3: https://en.wikipedia.org/wiki/Closed-circuit_television
+  Unit 4: https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
+  Unit 5: https://www.google.com/
+  Unit 6: https://www.youtube.com/
+  Unit 0: 
+  Unit 3: 
+  Unit 1: Rationale
+
+====================================================
+COURSE: 65853 - INNOVATION AND ENTREPRENEURSHIP (from 7th - 85-COMPUTE SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: 
+     1.1 Define Innovation.
+     1.2 Explain the Aims of Innovation.
+     1.3 Explain the importance of Innovation.
+     1.4 Explain TCV (Time, Cost, Visit) in Innovation.
+     1.5 Describe developing the innovative Mindset.
+  Unit 2: 
+  Unit 5: 
+  Unit 2: INNOVATION PROCESS
+     2.1 State the steps of Innovation.
+     2.2 Describe the Idea Generation & Mobilization of Innovation.
+     2.3 Mention the Advocacy & Screening of Innovation.
+     2.4 Explain the Experimentation of Innovation.
+     2.5 Describe the Commercialization of Innovation.
+     2.6 Explain Diffusion & Implementation of Innovation.
+  Unit 3: 
+  Unit 7: 
+  Unit 3: TYPES OF INNOVATION
+     3.1 Classify Innovation.
+     3.2 Define Radical Innovation.
+     3.3 Describe the Incremental Innovation.
+     3.4 Mention the types of Product Innovation.
+     3.5 Explain the Product Innovation stages.
+     3.6 Define the service Innovation.
+     3.7 Describe the area of Service Innovation.
+     3.8 Explain the Process Innovation.
+  Unit 3: 
+  Unit 8: 
+  Unit 4: ENTREPRENEURSHIP AND ECONOMIC DEVELOPMENT
+     4.1 Define entrepreneurship and entrepreneur.
+     4.2 Discuss the characteristics and qualities of an entrepreneur.
+     4.3 Mention the classification of entrepreneur.
+     4.4 Discuss the necessity of entrepreneurship.
+     4.5 Discuss the prospect of entrepreneurship development in
+     4.6 Define economic development and economic growth.
+     4.7 Discuss the economic development process.
+     4.8 Discuss the capital accumulation or rate of savings.
+  Unit 4: 
+  Unit 7: 
+  Unit 5: PROJECT SELECTION PROCESS & FINANCIAL PLANNING
+     5.1 Define project.
+     5.2 Discuss the idea of a project.
+     5.3 Explain SWOT analysis.
+     5.4 Describe the guide lines for project ideas.
+     5.5 Discuss the sources of project ideas.
+     5.6 Discuss the evaluation of project ideas.
+     5.7 Describe the technical aspect of a project.
+     5.8 Define financial planning.
+     5.9 Discuss the long-term financial plan.
+     5.10 Discuss the short-term financial plan.
+  Unit 4: 
+  Unit 8: 
+  Unit 6: BUSINESS PLAN AND ENVIRONMENT FOR
+  Unit 4: 
+  Unit 6: entrepreneurship.
+     6.1 Define business plan.
+     6.2 State the different steps to prepare a Business Plan.
+     6.3 Discuss the contents of business plan.
+     6.4 State the necessary business documents for Business Plan.
+     6.4 Define environment of business.
+     6.5 Describe the influencing factors of environment on
+     6.7 Explain micro and macro environment.
+  Unit 7: VENTURE IDEAS, ASSISTANCE, SANCTIONING PROCEDURE
+     7.1 Describe sources of venture ideas in Bangladesh.
+     7.2 Discuss different types and sources of venture ideas in Bangladesh.
+     7.3 Define sources of assistance.
+     7.4 Describe different types of sources of assistance.
+     7.5 Discuss the aid of sources.
+     7.6 Discuss the industrial policy.
+     7.7 Define foreign aid.
+     7.8 State evaluation of venture ideas.
+     7.9 Discuss the considering factors in the selection of venture idea.
+  Unit 4: 
+  Unit 5: 
+  Unit 8: INSURANCE AND PREMIUM
+     8.1 Define insurance and premium.
+     8.2 Describe the essential conditions of insurance contract.
+     8.3 Discuss various types of insurance.
+     8.4 Distinguish between life insurance and general insurance.
+  Unit 2: 
+  Unit 5: 
+  Unit 9: SELF EMPLOYMENT
+     9.1 Define self-employment.
+     9.2 Describe different types of employment.
+     9.3 Describe the importance of business as a profession.
+     9.4 Discuss the reasons for success and failure in business.
+  Unit 2: 
+  Unit 4: 
+  Unit 10: SUSTAINABLE DEVELOPMENT GOALS (SDG)
+  Unit 4: 
+  Unit 5: Total
+  Unit 32: 
+  Unit 60: Recommended Books:
+  Unit 01: Innovation and
+  Unit 06: Creativity, Innovation, and
+  Unit 07: Creativity and Innovation in
+  Unit 08: Entrepreneurship
+  Unit 1: Engr. Pradipta Khisa, Principal (In-charge), Feni
+  Unit 2: K.M. Rawshan Habib, Chief Instructor, Sirajgonj
+  Unit 3: Mr. Bishwajit Das, Assistant Professor, Textile Engineering
+  Unit 4: S. M. Shahjahan, Deputy Director (Course Accreditation),
+  Unit 2: 
+  Unit 3: 
+  Unit 3: Rationale
+
+====================================================
+COURSE: 28571 - Digital Marketing Technique (from 7th - 85-COMPUTE SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Introduction of Digital Marketing
+  Unit 1: 
+  Unit 3: 
+  Unit 2: 
+     2.1 Mention the Importance of Content in Digital Marketing.
+     2.2 Mention the different types of Content.
+     2.3 Describe Text, Images, Videos, Infographics content.
+     2.4 Explain Strategies & Tools of Content Creation.
+  Unit 2: 
+  Unit 5: 
+  Unit 3: Search Engine Optimization (SEO)
+     3.9 State the Uses Of GA4 For Website Tracking
+  Unit 10: 
+  Unit 15: 
+  Unit 4: Social Media Marketing (SMM)
+  Unit 1: 
+  Unit 3: 
+  Unit 5: Facebook Marketing Strategies
+  Unit 5: 
+  Unit 10: 
+  Unit 6: YouTube Marketing Strategies
+     6.1 State the Procedure to Create and Optimization Of YouTube Channel.
+     6.2 Describe the process to Upload Video According to YouTube Guideline
+     6.3 Explain the technique to Optimize Video for Better View and User
+     6.4 Explain the procedure to Video Marketing on Youtube.
+  Unit 5: 
+  Unit 5: 
+  Unit 7: LinkedIn Marketing Strategies
+  Unit 3: 
+  Unit 5: 
+  Unit 8: Search Engine Marketing (SEM)
+  Unit 2: 
+  Unit 4: 
+  Unit 9: Email & Tele Marketing
+  Unit 2: 
+  Unit 7: 
+  Unit 10: Ethics in Digital Marketing
+     10.1 Define Ethics of Digital Marketing.
+     10.2 State the Importance of Ethics in Digital Marketing.
+     10.3 Mention Common Ethical Issues in Digital Marketing.
+     10.4 Describe Ethical Guidelines for Creating Content.
+     10.5 State the ICT policy in Bangladesh.
+     10.6 Mention International Organization of Ethics of Digital Marketing.
+  Unit 1: 
+  Unit 3: Total
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28572 - Network Administration & Services (from 7th - 85-COMPUTE SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Network Theories
+     1.1 Define Network Administration
+     1.2 Mention the Key Components of Network Administration
+     1.3 Illustrate the role of  network administrator
+     1.4 Describe Intranet, Extranet, Internet
+     1.5 Describe TCP/IP model
+     1.6 Define Data encapsulation of TCP/IP model.
+     1.7 Illustrate Network Hierarchical model – Two Tier, Three Tier, Spine Leaf
+  Unit 3: 
+  Unit 10: 
+  Unit 2: Sub-Netting, VLSMs, and Summarization
+     2.1 Define Sub-netting
+     2.2 State Classless inter-domain routing (CIDR)
+     2.3 Define Variable length subnet mask (VLSMs)
+     2.4 Describe VLSM design and implementing VLSM Network
+     2.5 State Summarization.
+     2.6 State the process of Sub-netting.
+  Unit 4: 
+  Unit 10: 
+  Unit 3: IP Services
+     3.1 State the IP Services
+     3.2 Explain IP Routing in network.
+     3.3 Discus types of routing protocols.
+     3.4 Describe DNS service
+     3.5 Illustrate DHCP service
+     3.6 Describe Telnet
+     3.7 Discuss SSH
+  Unit 4: 
+  Unit 10: 
+  Unit 4: Internet Routing Protocol
+     4.1 Define Routing.
+     4.2 Explain IP Routing in network.
+     4.3 Discus types of routing protocols.
+     4.4 Describe OSPF terminology.
+     4.5 Define OSPF operation.
+     4.6 Describe Loopback interface
+  Unit 3: 
+  Unit 10: 
+  Unit 5: Domain Services
+     5.1 Explain Workgroup & Domain Environment
+     5.2 Describe Active Directory Domain Service
+     5.3 Define group policy
+     5.4 Mention the types of group policy
+     5.5 Explain the purpose of group policy
+  Unit 4: 
+  Unit 10: 
+  Unit 6: Network Security Fundamentals
+     6.1 Define key security concepts(Threats, Vulnerabilities, Exploits and Mitigation
+     6.2 Describe security program elements(User awareness, Training and Physical
+     6.3 Describe security password policies elements(Management, Complexity and
+     6.4 Describe Virtual Private Network(VPN)
+     6.5 Mention the types of VPN
+     6.6 Explain each type of VPN
+     6.7 Compare authentication, authorization and accounting(AAA)
+     6.8 Describe confidentiality, integrity and availability(CIA)
+  Unit 5: 
+  Unit 20: 
+  Unit 7: Spanning Tree Protocol (STP)
+     7.2 Describe Spanning Tree cost calculation
+     7.3 Define Spanning Tree port states
+     7.4 State Spanning Tree port fast
+     7.5 Define Rapid Spanning Tree
+     7.6 State Spanning Tree BPDU Guard
+     7.7 Define Spanning Tree BPDU Filter
+     7.8 Define Spanning Tree Root guard
+     7.9 State Ether-channel
+  Unit 5: 
+  Unit 15: 
+  Unit 8: VLANs and Inter-VLAN routing
+     8.1 Define VLANs
+     8.2 State 802.1Q and ISL Encapsulation.
+     8.3 Define Trunk link
+     8.4 Describe Router on a Stick.
+     8.5 Describe Inter-VLAN routing by multilayer switch
+     8.6 State the VLAN Truncking protocol (VTP)
+  Unit 4: 
+  Unit 10: 
+  Unit 9: Network Address Translator (NAT)
+     9.1 State Network Address Translator (NAT)
+     9.2 Explain the functions of NAT
+     9.3 Classify Network Address Translator
+     9.4 Describe each type of Network Address Translator
+  Unit 2: 
+  Unit 10: 
+  Unit 10: Access Control List
+     10.1 State access control list (ACL).
+     10.2 Explain the functions of access control list
+     10.3 Classify the access control list
+     10.4 Explain each type of access control list
+  Unit 3: 
+  Unit 10: 
+  Unit 11: Internet Protocol Version 6 (IPv6)
+     11.1 Mention the benefits and uses of IPv6
+     11.2 Define IPv6 addressing and expression
+     11.3 Describe how IPv6 works in an Inter-network.
+     11.4 State IPv6 Routing protocols (RIPng, EIGRP,OSPFv3).
+  Unit 3: 
+  Unit 10: 
+  Unit 12: Link and Gateway Redundancy
+     12.1 Define Link Redundancy
+     12.2 Mention the types of Link Redundancy
+     12.3 Define Hot Standby Router Protocol (HSRP)
+     12.4 State Virtual Router Redundancy Protocol (VRRP)
+     12.5 Describe Gateway Load Balancing Protocol (GLBP)
+  Unit 4: 
+  Unit 15: 
+  Unit 13: Automation in Networking
+     13.1 Explain how automation impacts in networking management
+     13.2 Compare traditional network & Controller based networking
+     13.3 Describe Software Defined Networking
+     13.4 Discus control plane and data plane
+     13.5 Discus on northbound and southbound
+     13.6 Recognize the capabilities of configuration management
+  Unit 4: 
+  Unit 10: Total
+  Unit 48: 
+
+====================================================
+COURSE: 28573 - Cyber Security & Ethics (from 7th - 85-COMPUTE SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Cyber Security and Risk Management
+     1.1 Define cyber security & goal of cyber security
+     1.2 Interpret cyber security & risk management
+     1.3 Explain structure of cyber world
+     1.4 Illustrate type of cyber security
+     1.5 Explain functional framework of cyber security
+     1.6 Describe risk management framework
+     1.7 Illustrate basic risk analysis methodology & risk mitigation process
+     1.8 Illustrate ethical hacking
+     1.9 Interpret importance of cyber security laws & rules
+  Unit 3: 
+  Unit 10: 
+  Unit 2: System and Network Security
+     2.1 State system and network security
+     2.2 Describe computer, network & internet security resources
+     2.3 Explain the use of security tools
+     2.4 Define firewall & state the types of firewall
+     2.5 Define threat and mention types of threat
+     2.6 Illustrate wireless attack & attacks on different layer
+     2.7 Illustrate basic data security and securing data storage system
+  Unit 3: 
+  Unit 8: 
+  Unit 3: Vulnerability Assessment and Penetration Testing
+     3.1 Define vulnerability assessment and penetration testing (VAPT)
+     3.2 Describe types of vulnerability scanning & penetration testing
+     3.3 explain penetration testing phases and techniques
+     3.4 Illustrate wireless hacking and different types of hacking tools
+     3.5 Explain log files and command & control Centre (CnC)
+     3.6 State VAPT report
+  Unit 4: 
+  Unit 10: 
+  Unit 4: Data Security
+     4.1 Define data security, database security and data privacy
+     4.2 Illustrate different types of steganography
+     4.3 Describe various data hiding techniques
+     4.4 Explain steganography and steganography algorithms
+     4.5 Explain data encryption algorithms and techniques
+     4.6 Explain encrypted data storage technique is used in databases
+     4.7 Illustrate digital signatures and digital certificates techniques
+  Unit 5: 
+  Unit 8: 
+  Unit 5: Blockchain Technology
+     5.1 State blockchain & blockchain technology
+     5.2 Mention application field of blockchain technology
+     5.3 Explain blockchain mining process
+     5.4 Describe blockchain security techniques
+  Unit 3: 
+  Unit 5: 
+  Unit 6: Digital Forensics
+     6.1 Define digital crime
+     6.2 Mention the classification of digital crime
+  Unit 6: 
+     6.3 Illustrate digital forensic and digital forensic investigation processes
+     6.4 State the type of file system and file carving techniques
+     6.5 Describe the techniques of network log forensic, cloud forensic techniques,
+     6.6 Explain defeating anti-forensic techniques is applied.
+     6.7 Describe forensic investigation report
+  Unit 8: database forensic techniques, network log forensic technique, cloud
+  Unit 7: Incidents Response and Disaster Recovery
+     7.1 Define incident handling and disaster recovery
+     7.2 Describe the classification of incident elements handling process
+     7.3 Explain phases of incident handling
+     7.4 Illustrate disaster recovery strategy and policy
+     7.5 Explain steps of disaster recovery
+  Unit 4: 
+  Unit 6: 
+  Unit 8: IT Security Auditing
+     8.1 Define it audit
+     8.2 Describe types of it audit
+     8.3 Explain the process of auditing information systems
+     8.4 Explain the processes of it auditing
+     8.5 Explain it audit sampling methodology
+     8.6 Describe it audit reporting process
+  Unit 4: 
+  Unit 5: Total
+  Unit 32: 
+  Unit 60: 
+
+====================================================
+COURSE: 28574 - APPS DEVELOPMENT (from 7th - 85-COMPUTE SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Android and Kotlin Environment
+  Unit 2: 
+  Unit 5: 
+  Unit 2: Activities and Fragment
+  Unit 2: 
+  Unit 5: 
+  Unit 3: Android User Interface
+     3.2 State the Basic Building Block for User Interface.
+     3.3 Describe the process to Use Image View, Image Switcher to
+     3.4 Explain Frame Layout, Linear Layout, Table Layout, Relative
+     3.5 Illustrate Jetpack Compose.
+     3.6 State Basic Composable and Layouts.
+     3.7 State Management in Compose.
+     3.8 Explain Jetpack Compose Project Setup.
+     3.9 Differentiate between XML Layout and Programmatic Layouts.
+  Unit 2: 
+  Unit 5: 
+  Unit 4: Android Intents, Filters and Navigation
+     4.1 Illustrate Android Intents and Filters
+     4.2 State the Intent Object and Fundamental Use Cases.
+     4.3 Explain Intent Types.
+     4.4 State Data Transfer between Activities.
+     4.5 Illustrate Navigation
+  Unit 2: 
+  Unit 5: 
+  Unit 5: Data Storage Management
+  Unit 2: 
+  Unit 5: 
+  Unit 6: RESTful API and Web Services
+  Unit 2: 
+  Unit 5: TOTAL
+  Unit 12: 
+  Unit 30: 
+
+====================================================
+COURSE: 28575 - Multimedia and Animation (from 7th - 85-COMPUTE SCIENCE AND TECHNOLOGY.pdf)
+====================================================
+  Unit 1: Introduction to Multimedia and Animation
+     1.1 State the history of Multimedia & Animation.
+     1.2 Mention the types of Multimedia & Animation
+     1.3 Differentiate between Multimedia & Animation
+     1.4 Describe the Applications of Multimedia & Animation for
+     1.5 Explain 2D and 3D Animation Production Pipeline
+  Unit 2: 
+  Unit 6: 
+  Unit 2: Design Principles & Visual Communication
+     2.1 Mention the Elements of design
+     2.2 State Design Principles in Depth
+     2.3 Explain Color Theory & Psychology
+     2.4 Interpret Visual Perception & Composition
+     2.5 Storytelling Techniques for Multimedia & Animation
+  Unit 4: 
+  Unit 6: 
+  Unit 3: 
+     3.1 Illustrate Animation Principles
+     3.2 State Character Design Fundamentals
+     3.3 Explain Timing & Spacing in Animation
+  Unit 4: 
+  Unit 8: 
+  Unit 4: realism to 3D models.
+     4.1 Explain 3D Animation production Pipeline
+     4.2 State 3D Space & Coordinate Systems
+     4.3 Explain3D Modeling Techniques
+     4.4 Illustrate Lighting, Texturing & Materials with adding
+     4.5 Explain Rigging & Character Animation for 3D with
+  Unit 4: 
+  Unit 8: 
+  Unit 5: Motion Graphics
+     5.1 Define Motion graphics.
+     5.2 State the applications of Motion graphics.
+     5.3 Describe the After Effects of Motion Graphics
+     5.4 State the interface & core features of Motion graphics
+     5.5 Illustrate importing Assets (basics) & Hands-on: Simple
+     5.6 Explain Design Principles for Motion Graphics (overview)
+  Unit 4: 
+  Unit 8: 
+  Unit 6: VFX, Compositing & Editing Theory
+     6.1 State Compositing Concepts
+     6.2 Explain layering, masking and green screen keying.
+     6.3 Illustrate Color Correction & Grading Techniques for
+     6.4 Interpret Video Editing Theory.
+     6.5 State VFX Concepts with particle effects, rotoscoping and
+  Unit 4: 
+  Unit 8: 
+  Unit 7: Sound Design & Audio Theory
+     7.1 State Sound Design Fundamentals with foley, dialogue
+     7.2 Describe the Importance of Sound in Animation &
+     7.3 Explain Audio Editing Techniques with
+     7.4 State Synchronization Techniques  with matching sound
+  Unit 4: 
+  Unit 6: 
+  Unit 8: Business of Multimedia & Animation
+     8.1 Explain Freelancing and In-house Work in the Industry
+     8.2 State the procedure to create a Portfolio & Showcasing
+     8.3 Explain the technique for Marketing Yourself &
+     8.4 Elucidate the Copyright & Licensing for Multimedia &
+  Unit 2: 
+  Unit 4: 
+  Unit 9: AI for Animation and Video Editing Tools
+     9.1 State AI-powered tools.
+     9.2 Explain AI-assisted video editing.
+     9.3 State the uses of AI tools to enhance a short animation
+  Unit 4: 
+  Unit 6: or video clip (provided or student-made).
+  Unit 32: 
+  Unit 60: 
+
